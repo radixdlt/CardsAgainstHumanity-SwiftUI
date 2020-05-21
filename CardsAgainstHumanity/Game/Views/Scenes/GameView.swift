@@ -22,8 +22,11 @@ extension GameView {
                 self.playersView
                     .frame(width: geometry.size.width * 0.2, height: geometry.size.height)
                 
-                self.cardsView
-                    .frame(width: geometry.size.width * 0.8, height: geometry.size.height)
+                VStack {
+                    self.questionCardView
+                    self.answerCardsView
+                }
+                .frame(width: geometry.size.width * 0.8, height: geometry.size.height)
             }
         }
         .onAppear {
@@ -48,8 +51,21 @@ private extension GameView {
         }
     }
     
-    var cardsView: some View {
-        CardsView(cards: self.$viewModel.game.cards)
+    var questionCardView: some View {
+        Group {
+            if self.viewModel.game.questionCard != nil {
+                Text("Question: \"\(self.viewModel.game.questionCard!.text)\"")
+                    .font(.largeTitle)
+                    .multilineTextAlignment(.center)
+            } else {
+                Text("Waiting for next round")
+                    .font(.largeTitle)
+            }
+        }
+    }
+    
+    var answerCardsView: some View {
+        CardsView(cards: self.$viewModel.game.answerCards)
     }
 }
 
@@ -77,7 +93,7 @@ extension GameViewModel {
         print("Fetching cards")
         DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
             print("Got cards")
-            self.game.cards = self.mockCards().map(CardModel.init)
+            self.game.answerCards = self.mockCards().map(CardModel.init)
         }
     }
 }
@@ -91,32 +107,13 @@ private extension GameViewModel {
         guard let path = Bundle.main.path(forResource: "cards", ofType: "json") else { fatalError("Failed to find cards.json file") }
         do {
             let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
-//            let jsonResult = try JSONSerialization.jsonObject(with: data, options: .mutableLeaves)
-//            if let jsonResult = jsonResult as? Dictionary<String, AnyObject>, let person = jsonResult["person"] as? [Any] {
-//                // do stuff
-//            }
             let cards = try JSONDecoder().decode([Card].self, from: data)
-            return .init(cards.filter({ $0.isAnswer }).prefix(50))
+            self.game.questionCard = cards.filter({ !$0.isAnswer }).randomElement()
+            return .init(cards.filter({ $0.isAnswer }).prefix(15))
         } catch {
             fatalError("Failed to parse cards json, error: \(error)")
         }
     }
-
-//    func mockCards() -> [Card] {
-//        var id: UInt = 1
-//        func answer(_ text: String, isUsed: Bool = false) -> Card {
-//            .init(text, type: .answer, isUsed: isUsed, id: id++)
-//        }
-//
-//        return [
-//            answer("Saving up my boogers for ten years and then building the world's largest booger."),
-//            answer("Republicans."),
-//            answer("Not believing in giraffes.", isUsed: true),
-//            answer("Getting stuck in the toilet."),
-//            answer("Big Italian women making the spicy sauce."),
-//            answer("Mormon feminists.")
-//        ]
-//    }
 }
 
 

@@ -9,15 +9,19 @@
 import Foundation
 
 struct Game {
-    typealias ID = Identifier<Self>
     
     let id: ID
     let me: Player
-    var otherPlayers: [Player] = .init()
-    var cards: [CardModel] = .init()
+    
+    var otherPlayers = [Player]()
+    var answerCards = [CardModel]()
+    var questionCard: Card?
 }
 
 extension Game {
+    
+    typealias ID = Identifier<Self>
+    
     var allPlayers: [Player] {
         [me] + otherPlayers
     }
