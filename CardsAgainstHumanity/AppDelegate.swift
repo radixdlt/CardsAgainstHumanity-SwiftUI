@@ -9,6 +9,63 @@
 import Cocoa
 import SwiftUI
 
+extension View {
+    func eraseToAny() -> AnyView {
+        AnyView(self)
+    }
+}
+
+public extension Identifiable where Self: RawRepresentable, ID == RawValue {
+    var id: ID { rawValue }
+}
+
+
+// MARK: - RootContent
+enum RootContent: Int, Equatable, Identifiable {
+    
+    case joinOrCreateGame, playGame
+}
+
+
+
+// MARK: - ROOT SCREEN
+struct RootScreen {
+    @EnvironmentObject private var appState: AppState
+}
+
+// MARK: View
+extension RootScreen: View {
+    
+    var body: some View {
+        rootView
+//            .accentColor(.defaultAccentColor)
+//            .foregroundColor(.defaultForegroundColor)
+    }
+}
+
+// MARK: Private
+private extension RootScreen {
+    var rootView: some View {
+        Group<AnyView> {
+            if appState.rootContent == .joinOrCreateGame {
+                return CreateGameView().eraseToAny()
+            } else if appState.rootContent == .playGame {
+                return GameView(
+                    viewModel: GameViewModel(game: appState.update().appShould.createGame())
+//                    viewModel: GameViewModel(
+//                        gameId: appState.update().appShould.provideGameId(),
+//                        player: Player(id: <#T##Player.ID#>, isCzar: <#T##Bool#>)
+//                    )
+                )
+                .eraseToAny()
+            } else {
+                return Text("⚠️ Unhandled rootContent state").font(.headline).eraseToAny()
+            }
+        }
+    }
+}
+
+
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate {
 
@@ -16,8 +73,14 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
-        // Create the SwiftUI view that provides the window contents.
-        let createGameView = CreateGameView()
+        
+        let preferences = Preferences.default
+        preferences.deleteAll()
+        let appState = AppState(preferences: preferences)
+        
+         let rootScreen =  RootScreen()
+                .environmentObject(preferences)
+                .environmentObject(appState)
 
         // Create the window and set the content view. 
         window = NSWindow(
@@ -26,7 +89,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             backing: .buffered, defer: false)
         window.center()
         window.setFrameAutosaveName("Main Window")
-        window.contentView = NSHostingView(rootView: createGameView)
+        window.contentView = NSHostingView(rootView: rootScreen)
         window.makeKeyAndOrderFront(nil)
     }
 

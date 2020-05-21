@@ -9,7 +9,23 @@
 import Foundation
 
 struct Player: Equatable, Identifiable {
-    typealias ID = Identifier<Self>
+
     let id: ID
-    var isCzar: Bool = false
+    let isMe: Bool
+    let isCzar: Bool
+    
+    init(id: ID, isMe: Bool = false, isCzar: Bool = false) {
+        self.id = id
+        self.isMe = isMe
+        self.isCzar = isCzar
+    }
+}
+
+extension Player {
+    
+    typealias ID = Identifier<Self>
+    
+    static func me(isCzar: Bool) -> Self {
+        .init(id: .random(), isMe: true, isCzar: isCzar)
+    }
 }

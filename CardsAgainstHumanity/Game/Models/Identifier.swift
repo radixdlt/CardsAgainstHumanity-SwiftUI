@@ -11,11 +11,10 @@ import Foundation
 struct Identifier<Entity>: Hashable, CustomStringConvertible, ExpressibleByStringLiteral {
     let identifier: String
     init?(identifier: String) {
-        let characterCount = 7
-        guard identifier.count >= characterCount else {
+        guard identifier.count >= lengthIdentifierString else {
             return nil
         }
-        self.identifier = .init(identifier.prefix(characterCount))
+        self.identifier = .init(identifier.prefix(lengthIdentifierString))
     }
 }
 
@@ -35,5 +34,19 @@ extension Identifier {
             fatalError("should always be able to create random id")
         }
         return id
+    }
+}
+
+let lengthIdentifierString = 7
+extension String {
+    static func randomHex(length: Int = lengthIdentifierString) -> Self {
+        func makeRandom() -> String {
+            .init(UUID().uuidString.replacingOccurrences(of: "-", with: ""))
+        }
+        var string = makeRandom()
+        while string.count < length {
+            string += makeRandom()
+        }
+        return .init(string.prefix(length))
     }
 }

@@ -8,16 +8,17 @@
 
 import Foundation
 
-final class Game: ObservableObject {
-    typealias ID = Identifier<Game>
+struct Game {
+    typealias ID = Identifier<Self>
     
-    var ugly_stringHolder: String = ""
-    
-    @Published var id: ID?
-    @Published var hasStarted: Bool = false
-    @Published var players: [Player] = .init()
-    
-    init(id: ID = .random()) {
-        self.id = id
+    let id: ID
+    let me: Player
+    var otherPlayers: [Player] = .init()
+    var cards: [Card] = .init()
+}
+
+extension Game {
+    var allPlayers: [Player] {
+        [me] + otherPlayers
     }
 }

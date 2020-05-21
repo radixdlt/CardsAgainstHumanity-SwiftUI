@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E69410A22476D14B009F3665 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69410A12476D14B009F3665 /* AppState.swift */; };
+		E6C99F602476EAFE008EA101 /* Optional_Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F5F2476EAFE008EA101 /* Optional_Extensions.swift */; };
+		E6C99F782476F5EB008EA101 /* PreferencesKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F632476F5EB008EA101 /* PreferencesKey.swift */; };
+		E6C99F792476F5EB008EA101 /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F642476F5EB008EA101 /* Preferences.swift */; };
+		E6C99F7A2476F5EB008EA101 /* UserDefaults+KeyValueStoring.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F652476F5EB008EA101 /* UserDefaults+KeyValueStoring.swift */; };
+		E6C99F7B2476F5EB008EA101 /* NoSaveOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F662476F5EB008EA101 /* NoSaveOptions.swift */; };
+		E6C99F7C2476F5EB008EA101 /* Preferences+ValueRetrieval.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F672476F5EB008EA101 /* Preferences+ValueRetrieval.swift */; };
+		E6C99F822476F5EB008EA101 /* KeyConvertible.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F6F2476F5EB008EA101 /* KeyConvertible.swift */; };
+		E6C99F832476F5EB008EA101 /* KeyValueStoring+ValueRetrieval.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F702476F5EB008EA101 /* KeyValueStoring+ValueRetrieval.swift */; };
+		E6C99F842476F5EB008EA101 /* KeyValueStoring+DeleteAll.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F712476F5EB008EA101 /* KeyValueStoring+DeleteAll.swift */; };
+		E6C99F852476F5EB008EA101 /* AnyKeyValueStoring.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F722476F5EB008EA101 /* AnyKeyValueStoring.swift */; };
+		E6C99F862476F5EB008EA101 /* KeyValueStoring.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F732476F5EB008EA101 /* KeyValueStoring.swift */; };
+		E6C99F872476F5EB008EA101 /* SaveOptionConvertible.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F742476F5EB008EA101 /* SaveOptionConvertible.swift */; };
+		E6C99F882476F5EB008EA101 /* KeyValueStoring+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F752476F5EB008EA101 /* KeyValueStoring+Codable.swift */; };
+		E6C99F892476F5EB008EA101 /* KeyValueStoring+AnyKeyValueStoring.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F762476F5EB008EA101 /* KeyValueStoring+AnyKeyValueStoring.swift */; };
+		E6C99F8A2476F5EB008EA101 /* KeyValueStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F772476F5EB008EA101 /* KeyValueStore.swift */; };
+		E6C99F8D2476F8EC008EA101 /* View+Enabled.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F8C2476F8EC008EA101 /* View+Enabled.swift */; };
+		E6C99F8F247710C0008EA101 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F8E247710C0008EA101 /* Card.swift */; };
+		E6C99F93247710FD008EA101 /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F92247710FD008EA101 /* PlayerView.swift */; };
 		E6CC8AED24768E2700D21278 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6CC8AEC24768E2700D21278 /* AppDelegate.swift */; };
 		E6CC8AEF24768E2700D21278 /* CreateGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6CC8AEE24768E2700D21278 /* CreateGameView.swift */; };
 		E6CC8AF124768E2800D21278 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6CC8AF024768E2800D21278 /* Assets.xcassets */; };
@@ -19,6 +38,25 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E69410A12476D14B009F3665 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
+		E6C99F5F2476EAFE008EA101 /* Optional_Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Optional_Extensions.swift; sourceTree = "<group>"; };
+		E6C99F632476F5EB008EA101 /* PreferencesKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferencesKey.swift; sourceTree = "<group>"; };
+		E6C99F642476F5EB008EA101 /* Preferences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
+		E6C99F652476F5EB008EA101 /* UserDefaults+KeyValueStoring.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UserDefaults+KeyValueStoring.swift"; sourceTree = "<group>"; };
+		E6C99F662476F5EB008EA101 /* NoSaveOptions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoSaveOptions.swift; sourceTree = "<group>"; };
+		E6C99F672476F5EB008EA101 /* Preferences+ValueRetrieval.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Preferences+ValueRetrieval.swift"; sourceTree = "<group>"; };
+		E6C99F6F2476F5EB008EA101 /* KeyConvertible.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyConvertible.swift; sourceTree = "<group>"; };
+		E6C99F702476F5EB008EA101 /* KeyValueStoring+ValueRetrieval.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "KeyValueStoring+ValueRetrieval.swift"; sourceTree = "<group>"; };
+		E6C99F712476F5EB008EA101 /* KeyValueStoring+DeleteAll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "KeyValueStoring+DeleteAll.swift"; sourceTree = "<group>"; };
+		E6C99F722476F5EB008EA101 /* AnyKeyValueStoring.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnyKeyValueStoring.swift; sourceTree = "<group>"; };
+		E6C99F732476F5EB008EA101 /* KeyValueStoring.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyValueStoring.swift; sourceTree = "<group>"; };
+		E6C99F742476F5EB008EA101 /* SaveOptionConvertible.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SaveOptionConvertible.swift; sourceTree = "<group>"; };
+		E6C99F752476F5EB008EA101 /* KeyValueStoring+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "KeyValueStoring+Codable.swift"; sourceTree = "<group>"; };
+		E6C99F762476F5EB008EA101 /* KeyValueStoring+AnyKeyValueStoring.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "KeyValueStoring+AnyKeyValueStoring.swift"; sourceTree = "<group>"; };
+		E6C99F772476F5EB008EA101 /* KeyValueStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyValueStore.swift; sourceTree = "<group>"; };
+		E6C99F8C2476F8EC008EA101 /* View+Enabled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Enabled.swift"; sourceTree = "<group>"; };
+		E6C99F8E247710C0008EA101 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		E6C99F92247710FD008EA101 /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
 		E6CC8AE924768E2600D21278 /* CardsAgainstHumanity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardsAgainstHumanity.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6CC8AEC24768E2700D21278 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E6CC8AEE24768E2700D21278 /* CreateGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateGameView.swift; sourceTree = "<group>"; };
@@ -44,6 +82,76 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E6C99F5E2476EAEA008EA101 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				E6C99F5F2476EAFE008EA101 /* Optional_Extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		E6C99F612476F5EB008EA101 /* DataStore */ = {
+			isa = PBXGroup;
+			children = (
+				E6C99F622476F5EB008EA101 /* Preferences */,
+				E6C99F6E2476F5EB008EA101 /* KeyValueStoring */,
+				E6C99F772476F5EB008EA101 /* KeyValueStore.swift */,
+			);
+			path = DataStore;
+			sourceTree = "<group>";
+		};
+		E6C99F622476F5EB008EA101 /* Preferences */ = {
+			isa = PBXGroup;
+			children = (
+				E6C99F632476F5EB008EA101 /* PreferencesKey.swift */,
+				E6C99F642476F5EB008EA101 /* Preferences.swift */,
+				E6C99F652476F5EB008EA101 /* UserDefaults+KeyValueStoring.swift */,
+				E6C99F662476F5EB008EA101 /* NoSaveOptions.swift */,
+				E6C99F672476F5EB008EA101 /* Preferences+ValueRetrieval.swift */,
+			);
+			path = Preferences;
+			sourceTree = "<group>";
+		};
+		E6C99F6E2476F5EB008EA101 /* KeyValueStoring */ = {
+			isa = PBXGroup;
+			children = (
+				E6C99F6F2476F5EB008EA101 /* KeyConvertible.swift */,
+				E6C99F702476F5EB008EA101 /* KeyValueStoring+ValueRetrieval.swift */,
+				E6C99F712476F5EB008EA101 /* KeyValueStoring+DeleteAll.swift */,
+				E6C99F722476F5EB008EA101 /* AnyKeyValueStoring.swift */,
+				E6C99F732476F5EB008EA101 /* KeyValueStoring.swift */,
+				E6C99F742476F5EB008EA101 /* SaveOptionConvertible.swift */,
+				E6C99F752476F5EB008EA101 /* KeyValueStoring+Codable.swift */,
+				E6C99F762476F5EB008EA101 /* KeyValueStoring+AnyKeyValueStoring.swift */,
+			);
+			path = KeyValueStoring;
+			sourceTree = "<group>";
+		};
+		E6C99F8B2476F8C0008EA101 /* ViewModifiers */ = {
+			isa = PBXGroup;
+			children = (
+				E6C99F8C2476F8EC008EA101 /* View+Enabled.swift */,
+			);
+			path = ViewModifiers;
+			sourceTree = "<group>";
+		};
+		E6C99F90247710E9008EA101 /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				E6CC8AEE24768E2700D21278 /* CreateGameView.swift */,
+				E6FEB67D2476BD0C00D3F17D /* GameView.swift */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		E6C99F91247710EF008EA101 /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				E6C99F92247710FD008EA101 /* PlayerView.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
 		E6CC8AE024768E2600D21278 = {
 			isa = PBXGroup;
 			children = (
@@ -63,6 +171,9 @@
 		E6CC8AEB24768E2600D21278 /* CardsAgainstHumanity */ = {
 			isa = PBXGroup;
 			children = (
+				E6C99F8B2476F8C0008EA101 /* ViewModifiers */,
+				E6C99F612476F5EB008EA101 /* DataStore */,
+				E6C99F5E2476EAEA008EA101 /* Extensions */,
 				E6FEB6762476BCBA00D3F17D /* Game */,
 				E6CC8AEC24768E2700D21278 /* AppDelegate.swift */,
 				E6CC8AF024768E2800D21278 /* Assets.xcassets */,
@@ -94,8 +205,8 @@
 		E6FEB6772476BCC200D3F17D /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				E6CC8AEE24768E2700D21278 /* CreateGameView.swift */,
-				E6FEB67D2476BD0C00D3F17D /* GameView.swift */,
+				E6C99F91247710EF008EA101 /* Subviews */,
+				E6C99F90247710E9008EA101 /* Scenes */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -105,7 +216,9 @@
 			children = (
 				E6FEB6792476BCDB00D3F17D /* Player.swift */,
 				E6FEB67B2476BCF700D3F17D /* Game.swift */,
+				E6C99F8E247710C0008EA101 /* Card.swift */,
 				E6FEB67F2476BD2000D3F17D /* Identifier.swift */,
+				E69410A12476D14B009F3665 /* AppState.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -181,11 +294,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6C99F832476F5EB008EA101 /* KeyValueStoring+ValueRetrieval.swift in Sources */,
+				E6C99F8D2476F8EC008EA101 /* View+Enabled.swift in Sources */,
 				E6CC8AEF24768E2700D21278 /* CreateGameView.swift in Sources */,
+				E6C99F862476F5EB008EA101 /* KeyValueStoring.swift in Sources */,
+				E6C99F602476EAFE008EA101 /* Optional_Extensions.swift in Sources */,
+				E6C99F822476F5EB008EA101 /* KeyConvertible.swift in Sources */,
+				E6C99F892476F5EB008EA101 /* KeyValueStoring+AnyKeyValueStoring.swift in Sources */,
+				E6C99F8F247710C0008EA101 /* Card.swift in Sources */,
+				E6C99F93247710FD008EA101 /* PlayerView.swift in Sources */,
+				E6C99F8A2476F5EB008EA101 /* KeyValueStore.swift in Sources */,
+				E6C99F792476F5EB008EA101 /* Preferences.swift in Sources */,
+				E6C99F842476F5EB008EA101 /* KeyValueStoring+DeleteAll.swift in Sources */,
+				E6C99F7C2476F5EB008EA101 /* Preferences+ValueRetrieval.swift in Sources */,
+				E6C99F872476F5EB008EA101 /* SaveOptionConvertible.swift in Sources */,
+				E6C99F7A2476F5EB008EA101 /* UserDefaults+KeyValueStoring.swift in Sources */,
 				E6FEB67A2476BCDB00D3F17D /* Player.swift in Sources */,
+				E69410A22476D14B009F3665 /* AppState.swift in Sources */,
+				E6C99F852476F5EB008EA101 /* AnyKeyValueStoring.swift in Sources */,
+				E6C99F782476F5EB008EA101 /* PreferencesKey.swift in Sources */,
 				E6CC8AED24768E2700D21278 /* AppDelegate.swift in Sources */,
+				E6C99F882476F5EB008EA101 /* KeyValueStoring+Codable.swift in Sources */,
 				E6FEB67C2476BCF700D3F17D /* Game.swift in Sources */,
 				E6FEB6802476BD2000D3F17D /* Identifier.swift in Sources */,
+				E6C99F7B2476F5EB008EA101 /* NoSaveOptions.swift in Sources */,
 				E6FEB67E2476BD0C00D3F17D /* GameView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
