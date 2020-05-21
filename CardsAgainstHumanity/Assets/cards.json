@@ -1,0 +1,8209 @@
+[
+  {
+    "id": 1,
+    "cardType": "answer",
+    "text": "Flying sex snakes.",
+    "isUsed": false
+  },
+  {
+    "id": 2,
+    "cardType": "answer",
+    "text": "Michelle Obama's arms.",
+    "isUsed": false
+  },
+  {
+    "id": 3,
+    "cardType": "answer",
+    "text": "German dungeon porn.",
+    "isUsed": false
+  },
+  {
+    "id": 4,
+    "cardType": "answer",
+    "text": "White people.",
+    "isUsed": false
+  },
+  {
+    "id": 5,
+    "cardType": "answer",
+    "text": "Getting so angry that you pop a boner.",
+    "isUsed": false
+  },
+  {
+    "id": 6,
+    "cardType": "answer",
+    "text": "Tasteful sideboob.",
+    "isUsed": false
+  },
+  {
+    "id": 7,
+    "cardType": "answer",
+    "text": "Praying the gay away.",
+    "isUsed": false
+  },
+  {
+    "id": 8,
+    "cardType": "answer",
+    "text": "Two midgets shitting into a bucket.",
+    "isUsed": false
+  },
+  {
+    "id": 9,
+    "cardType": "answer",
+    "text": "MechaHitler.",
+    "isUsed": false
+  },
+  {
+    "id": 10,
+    "cardType": "answer",
+    "text": "Being a motherfucking sorcerer.",
+    "isUsed": false
+  },
+  {
+    "id": 11,
+    "cardType": "answer",
+    "text": "A disappointing birthday party.",
+    "isUsed": false
+  },
+  {
+    "id": 12,
+    "cardType": "answer",
+    "text": "Puppies!",
+    "isUsed": false
+  },
+  {
+    "id": 13,
+    "cardType": "answer",
+    "text": "A windmill full of corpses.",
+    "isUsed": false
+  },
+  {
+    "id": 14,
+    "cardType": "answer",
+    "text": "Guys who don't call.",
+    "isUsed": false
+  },
+  {
+    "id": 15,
+    "cardType": "answer",
+    "text": "Racially-biased SAT questions.",
+    "isUsed": false
+  },
+  {
+    "id": 16,
+    "cardType": "answer",
+    "text": "Dying.",
+    "isUsed": false
+  },
+  {
+    "id": 17,
+    "cardType": "answer",
+    "text": "Steven Hawking talking dirty.",
+    "isUsed": false
+  },
+  {
+    "id": 18,
+    "cardType": "answer",
+    "text": "Being on fire.",
+    "isUsed": false
+  },
+  {
+    "id": 19,
+    "cardType": "answer",
+    "text": "A lifetime of sadness.",
+    "isUsed": false
+  },
+  {
+    "id": 20,
+    "cardType": "answer",
+    "text": "An erection that lasts longer than four hours.",
+    "isUsed": false
+  },
+  {
+    "id": 21,
+    "cardType": "answer",
+    "text": "AIDS",
+    "isUsed": false
+  },
+  {
+    "id": 22,
+    "cardType": "answer",
+    "text": "Same-sex ice dancing.",
+    "isUsed": false
+  },
+  {
+    "id": 23,
+    "cardType": "answer",
+    "text": "Glenn Beck catching his scrotum on a curtain hook.",
+    "isUsed": false
+  },
+  {
+    "id": 24,
+    "cardType": "answer",
+    "text": "The Rapture.",
+    "isUsed": false
+  },
+  {
+    "id": 25,
+    "cardType": "answer",
+    "text": "Pterodactyl eggs.",
+    "isUsed": false
+  },
+  {
+    "id": 26,
+    "cardType": "answer",
+    "text": "Crippling debt.",
+    "isUsed": false
+  },
+  {
+    "id": 27,
+    "cardType": "answer",
+    "text": "Eugenics.",
+    "isUsed": false
+  },
+  {
+    "id": 28,
+    "cardType": "answer",
+    "text": "Exchanging pleasantries.",
+    "isUsed": false
+  },
+  {
+    "id": 29,
+    "cardType": "answer",
+    "text": "Dying of dysentery.",
+    "isUsed": false
+  },
+  {
+    "id": 30,
+    "cardType": "answer",
+    "text": "Roofies.",
+    "isUsed": false
+  },
+  {
+    "id": 31,
+    "cardType": "answer",
+    "text": "Getting naked and watching Nickelodeon.",
+    "isUsed": false
+  },
+  {
+    "id": 32,
+    "cardType": "answer",
+    "text": "The forbidden fruit.",
+    "isUsed": false
+  },
+  {
+    "id": 33,
+    "cardType": "answer",
+    "text": "Republicans.",
+    "isUsed": false
+  },
+  {
+    "id": 34,
+    "cardType": "answer",
+    "text": "The Big Bang.",
+    "isUsed": false
+  },
+  {
+    "id": 35,
+    "cardType": "answer",
+    "text": "Anal beads.",
+    "isUsed": false
+  },
+  {
+    "id": 36,
+    "cardType": "answer",
+    "text": "Amputees.",
+    "isUsed": false
+  },
+  {
+    "id": 37,
+    "cardType": "answer",
+    "text": "Men.",
+    "isUsed": false
+  },
+  {
+    "id": 38,
+    "cardType": "answer",
+    "text": "Surprise sex!",
+    "isUsed": false
+  },
+  {
+    "id": 39,
+    "cardType": "answer",
+    "text": "Kim Jong-il.",
+    "isUsed": false
+  },
+  {
+    "id": 40,
+    "cardType": "answer",
+    "text": "Concealing a boner",
+    "isUsed": false
+  },
+  {
+    "id": 41,
+    "cardType": "answer",
+    "text": "Agriculture.",
+    "isUsed": false
+  },
+  {
+    "id": 42,
+    "cardType": "answer",
+    "text": "Glenn Beck being harried by a swarm of buzzards.",
+    "isUsed": false
+  },
+  {
+    "id": 43,
+    "cardType": "answer",
+    "text": "Making a pouty face.",
+    "isUsed": false
+  },
+  {
+    "id": 44,
+    "cardType": "answer",
+    "text": "A salty surprise.",
+    "isUsed": false
+  },
+  {
+    "id": 45,
+    "cardType": "answer",
+    "text": "The Jews.",
+    "isUsed": false
+  },
+  {
+    "id": 46,
+    "cardType": "answer",
+    "text": "Charisma.",
+    "isUsed": false
+  },
+  {
+    "id": 47,
+    "cardType": "answer",
+    "text": "YOU MUST CONSTRUCT ADDITIONAL PYLONS.",
+    "isUsed": false
+  },
+  {
+    "id": 48,
+    "cardType": "answer",
+    "text": "Panda sex.",
+    "isUsed": false
+  },
+  {
+    "id": 49,
+    "cardType": "answer",
+    "text": "Taking off your shirt.",
+    "isUsed": false
+  },
+  {
+    "id": 50,
+    "cardType": "answer",
+    "text": "A drive-by shooting.",
+    "isUsed": false
+  },
+  {
+    "id": 51,
+    "cardType": "answer",
+    "text": "Ronald Reagan.",
+    "isUsed": false
+  },
+  {
+    "id": 52,
+    "cardType": "answer",
+    "text": "Morgan Freeman's voice.",
+    "isUsed": false
+  },
+  {
+    "id": 53,
+    "cardType": "answer",
+    "text": "Breaking out into song and dance.",
+    "isUsed": false
+  },
+  {
+    "id": 54,
+    "cardType": "answer",
+    "text": "Jewish fraternities.",
+    "isUsed": false
+  },
+  {
+    "id": 55,
+    "cardType": "answer",
+    "text": "Dead babies.",
+    "isUsed": false
+  },
+  {
+    "id": 56,
+    "cardType": "answer",
+    "text": "Masturbation.",
+    "isUsed": false
+  },
+  {
+    "id": 57,
+    "cardType": "answer",
+    "text": "Hormone injections.",
+    "isUsed": false
+  },
+  {
+    "id": 58,
+    "cardType": "answer",
+    "text": "All-you-can-eat shrimp for $4.99.",
+    "isUsed": false
+  },
+  {
+    "id": 59,
+    "cardType": "answer",
+    "text": "Incest.",
+    "isUsed": false
+  },
+  {
+    "id": 60,
+    "cardType": "answer",
+    "text": "Scalping.",
+    "isUsed": false
+  },
+  {
+    "id": 61,
+    "cardType": "answer",
+    "text": "Soup that is too hot.",
+    "isUsed": false
+  },
+  {
+    "id": 62,
+    "cardType": "answer",
+    "text": "The &Uuml;bermensch.",
+    "isUsed": false
+  },
+  {
+    "id": 63,
+    "cardType": "answer",
+    "text": "Nazis.",
+    "isUsed": false
+  },
+  {
+    "id": 64,
+    "cardType": "answer",
+    "text": "Tom Cruise.",
+    "isUsed": false
+  },
+  {
+    "id": 65,
+    "cardType": "answer",
+    "text": "Stifling a giggle at the mention of Hutus and Tutsis.",
+    "isUsed": false
+  },
+  {
+    "id": 66,
+    "cardType": "answer",
+    "text": "Edible underpants.",
+    "isUsed": false
+  },
+  {
+    "id": 67,
+    "cardType": "answer",
+    "text": "The Hustle.",
+    "isUsed": false
+  },
+  {
+    "id": 68,
+    "cardType": "answer",
+    "text": "A Super Soaker&trade; full of cat pee.",
+    "isUsed": false
+  },
+  {
+    "id": 69,
+    "cardType": "answer",
+    "text": "Figgy pudding.",
+    "isUsed": false
+  },
+  {
+    "id": 70,
+    "cardType": "answer",
+    "text": "Object permanence.",
+    "isUsed": false
+  },
+  {
+    "id": 71,
+    "cardType": "answer",
+    "text": "Consultants.",
+    "isUsed": false
+  },
+  {
+    "id": 72,
+    "cardType": "answer",
+    "text": "Intelligent design.",
+    "isUsed": false
+  },
+  {
+    "id": 73,
+    "cardType": "answer",
+    "text": "Nocturnal emissions.",
+    "isUsed": false
+  },
+  {
+    "id": 74,
+    "cardType": "answer",
+    "text": "Uppercuts.",
+    "isUsed": false
+  },
+  {
+    "id": 75,
+    "cardType": "answer",
+    "text": "Being marginalized.",
+    "isUsed": false
+  },
+  {
+    "id": 76,
+    "cardType": "answer",
+    "text": "The profoundly handicapped.",
+    "isUsed": false
+  },
+  {
+    "id": 77,
+    "cardType": "answer",
+    "text": "Obesity.",
+    "isUsed": false
+  },
+  {
+    "id": 78,
+    "cardType": "answer",
+    "text": "Chutzpah.",
+    "isUsed": false
+  },
+  {
+    "id": 79,
+    "cardType": "answer",
+    "text": "Unfathomable stupidity.",
+    "isUsed": false
+  },
+  {
+    "id": 80,
+    "cardType": "answer",
+    "text": "Repression.",
+    "isUsed": false
+  },
+  {
+    "id": 81,
+    "cardType": "answer",
+    "text": "Attitude.",
+    "isUsed": false
+  },
+  {
+    "id": 82,
+    "cardType": "answer",
+    "text": "Passable transvestites.",
+    "isUsed": false
+  },
+  {
+    "id": 83,
+    "cardType": "answer",
+    "text": "Party poopers.",
+    "isUsed": false
+  },
+  {
+    "id": 84,
+    "cardType": "answer",
+    "text": "The American Dream",
+    "isUsed": false
+  },
+  {
+    "id": 85,
+    "cardType": "answer",
+    "text": "Child beauty pageants.",
+    "isUsed": false
+  },
+  {
+    "id": 86,
+    "cardType": "answer",
+    "text": "Puberty.",
+    "isUsed": false
+  },
+  {
+    "id": 87,
+    "cardType": "answer",
+    "text": "Testicular torsion.",
+    "isUsed": false
+  },
+  {
+    "id": 88,
+    "cardType": "answer",
+    "text": "The folly of man.",
+    "isUsed": false
+  },
+  {
+    "id": 89,
+    "cardType": "answer",
+    "text": "Nickelback.",
+    "isUsed": false
+  },
+  {
+    "id": 90,
+    "cardType": "answer",
+    "text": "Swooping.",
+    "isUsed": false
+  },
+  {
+    "id": 91,
+    "cardType": "answer",
+    "text": "Goats eating cans.",
+    "isUsed": false
+  },
+  {
+    "id": 92,
+    "cardType": "answer",
+    "text": "The KKK.",
+    "isUsed": false
+  },
+  {
+    "id": 93,
+    "cardType": "answer",
+    "text": "Kamikaze pilots.",
+    "isUsed": false
+  },
+  {
+    "id": 94,
+    "cardType": "answer",
+    "text": "Horrifying laser hair removal accidents.",
+    "isUsed": false
+  },
+  {
+    "id": 95,
+    "cardType": "answer",
+    "text": "Adderall&trade;.",
+    "isUsed": false
+  },
+  {
+    "id": 96,
+    "cardType": "answer",
+    "text": "A look-see.",
+    "isUsed": false
+  },
+  {
+    "id": 97,
+    "cardType": "answer",
+    "text": "Doing the right thing.",
+    "isUsed": false
+  },
+  {
+    "id": 98,
+    "cardType": "answer",
+    "text": "The taint; the grundle; the fleshy fun-bridge.",
+    "isUsed": false
+  },
+  {
+    "id": 99,
+    "cardType": "answer",
+    "text": "Lactation.",
+    "isUsed": false
+  },
+  {
+    "id": 100,
+    "cardType": "answer",
+    "text": "Pabst Blue Ribbon.",
+    "isUsed": false
+  },
+  {
+    "id": 101,
+    "cardType": "answer",
+    "text": "Powerful thighs.",
+    "isUsed": false
+  },
+  {
+    "id": 102,
+    "cardType": "answer",
+    "text": "Saxophone solos.",
+    "isUsed": false
+  },
+  {
+    "id": 103,
+    "cardType": "answer",
+    "text": "The gays.",
+    "isUsed": false
+  },
+  {
+    "id": 104,
+    "cardType": "answer",
+    "text": "A middle-aged man on roller skates.",
+    "isUsed": false
+  },
+  {
+    "id": 105,
+    "cardType": "answer",
+    "text": "A foul mouth.",
+    "isUsed": false
+  },
+  {
+    "id": 106,
+    "cardType": "answer",
+    "text": "The thing that electrocutes your abs.",
+    "isUsed": false
+  },
+  {
+    "id": 107,
+    "cardType": "answer",
+    "text": "Heteronormativity.",
+    "isUsed": false
+  },
+  {
+    "id": 108,
+    "cardType": "answer",
+    "text": "Cuddling.",
+    "isUsed": false
+  },
+  {
+    "id": 109,
+    "cardType": "answer",
+    "text": "Coat hanger abortions.",
+    "isUsed": false
+  },
+  {
+    "id": 110,
+    "cardType": "answer",
+    "text": "A big hoopla about nothing.",
+    "isUsed": false
+  },
+  {
+    "id": 111,
+    "cardType": "answer",
+    "text": "Boogers.",
+    "isUsed": false
+  },
+  {
+    "id": 112,
+    "cardType": "answer",
+    "text": "A hot mess.",
+    "isUsed": false
+  },
+  {
+    "id": 113,
+    "cardType": "answer",
+    "text": "Raptor attacks.",
+    "isUsed": false
+  },
+  {
+    "id": 114,
+    "cardType": "answer",
+    "text": "My collection of high-tech sex toys.",
+    "isUsed": false
+  },
+  {
+    "id": 115,
+    "cardType": "answer",
+    "text": "Fear itself.",
+    "isUsed": false
+  },
+  {
+    "id": 116,
+    "cardType": "answer",
+    "text": "<i>Bees?</i>",
+    "isUsed": false
+  },
+  {
+    "id": 117,
+    "cardType": "answer",
+    "text": "Getting drunk on mouthwash.",
+    "isUsed": false
+  },
+  {
+    "id": 118,
+    "cardType": "answer",
+    "text": "Sniffing glue.",
+    "isUsed": false
+  },
+  {
+    "id": 119,
+    "cardType": "answer",
+    "text": "Oversized lollipops.",
+    "isUsed": false
+  },
+  {
+    "id": 120,
+    "cardType": "answer",
+    "text": "An icepick lobotomy.",
+    "isUsed": false
+  },
+  {
+    "id": 121,
+    "cardType": "answer",
+    "text": "Being rich.",
+    "isUsed": false
+  },
+  {
+    "id": 122,
+    "cardType": "answer",
+    "text": "Friends with benefits.",
+    "isUsed": false
+  },
+  {
+    "id": 123,
+    "cardType": "answer",
+    "text": "Teaching a robot to love.",
+    "isUsed": false
+  },
+  {
+    "id": 124,
+    "cardType": "answer",
+    "text": "Women's suffrage.",
+    "isUsed": false
+  },
+  {
+    "id": 125,
+    "cardType": "answer",
+    "text": "Me time.",
+    "isUsed": false
+  },
+  {
+    "id": 126,
+    "cardType": "answer",
+    "text": "The heart of a child.",
+    "isUsed": false
+  },
+  {
+    "id": 127,
+    "cardType": "answer",
+    "text": "Smallpox blankets.",
+    "isUsed": false
+  },
+  {
+    "id": 128,
+    "cardType": "answer",
+    "text": "The clitoris.",
+    "isUsed": false
+  },
+  {
+    "id": 129,
+    "cardType": "answer",
+    "text": "John Wilkes Booth.",
+    "isUsed": false
+  },
+  {
+    "id": 130,
+    "cardType": "answer",
+    "text": "The glass ceiling.",
+    "isUsed": false
+  },
+  {
+    "id": 131,
+    "cardType": "answer",
+    "text": "Sarah Palin.",
+    "isUsed": false
+  },
+  {
+    "id": 132,
+    "cardType": "answer",
+    "text": "Sexy pillow fights.",
+    "isUsed": false
+  },
+  {
+    "id": 133,
+    "cardType": "answer",
+    "text": "Yeast.",
+    "isUsed": false
+  },
+  {
+    "id": 134,
+    "cardType": "answer",
+    "text": "Full frontal nudity.",
+    "isUsed": false
+  },
+  {
+    "id": 135,
+    "cardType": "answer",
+    "text": "Parting the Red Sea.",
+    "isUsed": false
+  },
+  {
+    "id": 136,
+    "cardType": "answer",
+    "text": "A Bop It&trade;.",
+    "isUsed": false
+  },
+  {
+    "id": 137,
+    "cardType": "answer",
+    "text": "Michael Jackson.",
+    "isUsed": false
+  },
+  {
+    "id": 138,
+    "cardType": "answer",
+    "text": "Team-building exercises.",
+    "isUsed": false
+  },
+  {
+    "id": 139,
+    "cardType": "answer",
+    "text": "Harry Potter erotica.",
+    "isUsed": false
+  },
+  {
+    "id": 140,
+    "cardType": "answer",
+    "text": "Authentic Mexican cuisine.",
+    "isUsed": false
+  },
+  {
+    "id": 141,
+    "cardType": "answer",
+    "text": "Frolicking.",
+    "isUsed": false
+  },
+  {
+    "id": 142,
+    "cardType": "answer",
+    "text": "Sexting.",
+    "isUsed": false
+  },
+  {
+    "id": 143,
+    "cardType": "answer",
+    "text": "Grandma.",
+    "isUsed": false
+  },
+  {
+    "id": 144,
+    "cardType": "answer",
+    "text": "Not giving a shit about the Third World.",
+    "isUsed": false
+  },
+  {
+    "id": 145,
+    "cardType": "answer",
+    "text": "Licking things to claim them as your own.",
+    "isUsed": false
+  },
+  {
+    "id": 146,
+    "cardType": "answer",
+    "text": "Genghis Khan.",
+    "isUsed": false
+  },
+  {
+    "id": 147,
+    "cardType": "answer",
+    "text": "The hardworking Mexican.",
+    "isUsed": false
+  },
+  {
+    "id": 148,
+    "cardType": "answer",
+    "text": "RoboCop.",
+    "isUsed": false
+  },
+  {
+    "id": 149,
+    "cardType": "answer",
+    "text": "My relationship status.",
+    "isUsed": false
+  },
+  {
+    "id": 150,
+    "cardType": "answer",
+    "text": "Scrubbing under the folds.",
+    "isUsed": false
+  },
+  {
+    "id": 151,
+    "cardType": "answer",
+    "text": "Porn Stars.",
+    "isUsed": false
+  },
+  {
+    "id": 152,
+    "cardType": "answer",
+    "text": "Horse meat.",
+    "isUsed": false
+  },
+  {
+    "id": 153,
+    "cardType": "answer",
+    "text": "Sunshine and rainbows.",
+    "isUsed": false
+  },
+  {
+    "id": 154,
+    "cardType": "answer",
+    "text": "Expecting a burp and vomiting on the floor.",
+    "isUsed": false
+  },
+  {
+    "id": 155,
+    "cardType": "answer",
+    "text": "Barack Obama.",
+    "isUsed": false
+  },
+  {
+    "id": 156,
+    "cardType": "answer",
+    "text": "Spontaneous human combustion.",
+    "isUsed": false
+  },
+  {
+    "id": 157,
+    "cardType": "answer",
+    "text": "Natural selection.",
+    "isUsed": false
+  },
+  {
+    "id": 158,
+    "cardType": "answer",
+    "text": "Mouth herpes.",
+    "isUsed": false
+  },
+  {
+    "id": 159,
+    "cardType": "answer",
+    "text": "Flash flooding.",
+    "isUsed": false
+  },
+  {
+    "id": 160,
+    "cardType": "answer",
+    "text": "Goblins.",
+    "isUsed": false
+  },
+  {
+    "id": 161,
+    "cardType": "answer",
+    "text": "A monkey smoking a cigar.",
+    "isUsed": false
+  },
+  {
+    "id": 162,
+    "cardType": "answer",
+    "text": "Spectacular abs.",
+    "isUsed": false
+  },
+  {
+    "id": 163,
+    "cardType": "answer",
+    "text": "A good sniff.",
+    "isUsed": false
+  },
+  {
+    "id": 164,
+    "cardType": "answer",
+    "text": "Wiping her butt.",
+    "isUsed": false
+  },
+  {
+    "id": 165,
+    "cardType": "answer",
+    "text": "The Three-Fifths compromise.",
+    "isUsed": false
+  },
+  {
+    "id": 166,
+    "cardType": "answer",
+    "text": "Pedophiles.",
+    "isUsed": false
+  },
+  {
+    "id": 167,
+    "cardType": "answer",
+    "text": "Doin' it in the butt.",
+    "isUsed": false
+  },
+  {
+    "id": 168,
+    "cardType": "answer",
+    "text": "Being fabulous.",
+    "isUsed": false
+  },
+  {
+    "id": 169,
+    "cardType": "answer",
+    "text": "Mathletes.",
+    "isUsed": false
+  },
+  {
+    "id": 170,
+    "cardType": "answer",
+    "text": "Wearing underwear inside-out to avoid doing laundry.",
+    "isUsed": false
+  },
+  {
+    "id": 171,
+    "cardType": "answer",
+    "text": "Nipple blades.",
+    "isUsed": false
+  },
+  {
+    "id": 172,
+    "cardType": "answer",
+    "text": "An M. Night Shyamalan plot twist.",
+    "isUsed": false
+  },
+  {
+    "id": 173,
+    "cardType": "answer",
+    "text": "A bag of magic beans.",
+    "isUsed": false
+  },
+  {
+    "id": 174,
+    "cardType": "answer",
+    "text": "Vigorous jazz hands.",
+    "isUsed": false
+  },
+  {
+    "id": 175,
+    "cardType": "answer",
+    "text": "A defective condom.",
+    "isUsed": false
+  },
+  {
+    "id": 176,
+    "cardType": "answer",
+    "text": "Skeletor.",
+    "isUsed": false
+  },
+  {
+    "id": 177,
+    "cardType": "answer",
+    "text": "Vikings.",
+    "isUsed": false
+  },
+  {
+    "id": 178,
+    "cardType": "answer",
+    "text": "Leaving an awkward voicemail.",
+    "isUsed": false
+  },
+  {
+    "id": 179,
+    "cardType": "answer",
+    "text": "Teenage pregnancy.",
+    "isUsed": false
+  },
+  {
+    "id": 180,
+    "cardType": "answer",
+    "text": "Dead parents.",
+    "isUsed": false
+  },
+  {
+    "id": 181,
+    "cardType": "answer",
+    "text": "Hot cheese.",
+    "isUsed": false
+  },
+  {
+    "id": 182,
+    "cardType": "answer",
+    "text": "My sex life.",
+    "isUsed": false
+  },
+  {
+    "id": 183,
+    "cardType": "answer",
+    "text": "A mopey zoo lion.",
+    "isUsed": false
+  },
+  {
+    "id": 184,
+    "cardType": "answer",
+    "text": "Assless chaps.",
+    "isUsed": false
+  },
+  {
+    "id": 185,
+    "cardType": "answer",
+    "text": "Riding off into the sunset.",
+    "isUsed": false
+  },
+  {
+    "id": 186,
+    "cardType": "answer",
+    "text": "Lance Armstrong's missing testicle.",
+    "isUsed": false
+  },
+  {
+    "id": 187,
+    "cardType": "answer",
+    "text": "Sweet, sweet vengeance.",
+    "isUsed": false
+  },
+  {
+    "id": 188,
+    "cardType": "answer",
+    "text": "Genital piercings.",
+    "isUsed": false
+  },
+  {
+    "id": 189,
+    "cardType": "answer",
+    "text": "Keg stands.",
+    "isUsed": false
+  },
+  {
+    "id": 190,
+    "cardType": "answer",
+    "text": "Darth Vader.",
+    "isUsed": false
+  },
+  {
+    "id": 191,
+    "cardType": "answer",
+    "text": "Viagra&copy;.",
+    "isUsed": false
+  },
+  {
+    "id": 192,
+    "cardType": "answer",
+    "text": "Necrophilia.",
+    "isUsed": false
+  },
+  {
+    "id": 193,
+    "cardType": "answer",
+    "text": "A really cool hat.",
+    "isUsed": false
+  },
+  {
+    "id": 194,
+    "cardType": "answer",
+    "text": "Toni Morrison's vagina.",
+    "isUsed": false
+  },
+  {
+    "id": 195,
+    "cardType": "answer",
+    "text": "An Oedipus complex.",
+    "isUsed": false
+  },
+  {
+    "id": 196,
+    "cardType": "answer",
+    "text": "The Tempur-Pedic&copy; Swedish Sleep System&trade;.",
+    "isUsed": false
+  },
+  {
+    "id": 197,
+    "cardType": "answer",
+    "text": "Preteens.",
+    "isUsed": false
+  },
+  {
+    "id": 198,
+    "cardType": "answer",
+    "text": "Dick fingers.",
+    "isUsed": false
+  },
+  {
+    "id": 199,
+    "cardType": "answer",
+    "text": "A cooler full of organs.",
+    "isUsed": false
+  },
+  {
+    "id": 200,
+    "cardType": "answer",
+    "text": "Shapeshifters.",
+    "isUsed": false
+  },
+  {
+    "id": 201,
+    "cardType": "answer",
+    "text": "The Care Bear Stare.",
+    "isUsed": false
+  },
+  {
+    "id": 202,
+    "cardType": "answer",
+    "text": "Erectile dysfunction.",
+    "isUsed": false
+  },
+  {
+    "id": 203,
+    "cardType": "answer",
+    "text": "Keanu Reeves.",
+    "isUsed": false
+  },
+  {
+    "id": 204,
+    "cardType": "answer",
+    "text": "The Virginia Tech Massacre.",
+    "isUsed": false
+  },
+  {
+    "id": 205,
+    "cardType": "answer",
+    "text": "The Underground Railroad.",
+    "isUsed": false
+  },
+  {
+    "id": 206,
+    "cardType": "answer",
+    "text": "The chronic.",
+    "isUsed": false
+  },
+  {
+    "id": 207,
+    "cardType": "answer",
+    "text": "Queefing.",
+    "isUsed": false
+  },
+  {
+    "id": 208,
+    "cardType": "answer",
+    "text": "Heartwarming orphans.",
+    "isUsed": false
+  },
+  {
+    "id": 209,
+    "cardType": "answer",
+    "text": "A thermonuclear detonation.",
+    "isUsed": false
+  },
+  {
+    "id": 210,
+    "cardType": "answer",
+    "text": "Cheating in the Special Olympics.",
+    "isUsed": false
+  },
+  {
+    "id": 211,
+    "cardType": "answer",
+    "text": "Tangled Slinkys.",
+    "isUsed": false
+  },
+  {
+    "id": 212,
+    "cardType": "answer",
+    "text": "A moment of silence.",
+    "isUsed": false
+  },
+  {
+    "id": 213,
+    "cardType": "answer",
+    "text": "Civilian casualties.",
+    "isUsed": false
+  },
+  {
+    "id": 214,
+    "cardType": "answer",
+    "text": "Catapults.",
+    "isUsed": false
+  },
+  {
+    "id": 215,
+    "cardType": "answer",
+    "text": "Sharing needles.",
+    "isUsed": false
+  },
+  {
+    "id": 216,
+    "cardType": "answer",
+    "text": "Ethnic cleansing.",
+    "isUsed": false
+  },
+  {
+    "id": 217,
+    "cardType": "answer",
+    "text": "Emotions.",
+    "isUsed": false
+  },
+  {
+    "id": 218,
+    "cardType": "answer",
+    "text": "Children on leashes.",
+    "isUsed": false
+  },
+  {
+    "id": 219,
+    "cardType": "answer",
+    "text": "Balls.",
+    "isUsed": false
+  },
+  {
+    "id": 220,
+    "cardType": "answer",
+    "text": "Homeless people.",
+    "isUsed": false
+  },
+  {
+    "id": 221,
+    "cardType": "answer",
+    "text": "Eating all of the cookies before the AIDS bake-sale.",
+    "isUsed": false
+  },
+  {
+    "id": 222,
+    "cardType": "answer",
+    "text": "Old-people smell.",
+    "isUsed": false
+  },
+  {
+    "id": 223,
+    "cardType": "answer",
+    "text": "Farting and walking away.",
+    "isUsed": false
+  },
+  {
+    "id": 224,
+    "cardType": "answer",
+    "text": "The inevitable heat death of the universe.",
+    "isUsed": false
+  },
+  {
+    "id": 225,
+    "cardType": "answer",
+    "text": "The violation of our most basic human rights.",
+    "isUsed": false
+  },
+  {
+    "id": 226,
+    "cardType": "answer",
+    "text": "Fingering.",
+    "isUsed": false
+  },
+  {
+    "id": 227,
+    "cardType": "answer",
+    "text": "The placenta.",
+    "isUsed": false
+  },
+  {
+    "id": 228,
+    "cardType": "answer",
+    "text": "The Rev. Dr. Martin Luther King, Jr.",
+    "isUsed": false
+  },
+  {
+    "id": 229,
+    "cardType": "answer",
+    "text": "Leprosy.",
+    "isUsed": false
+  },
+  {
+    "id": 230,
+    "cardType": "answer",
+    "text": "Sperm whales.",
+    "isUsed": false
+  },
+  {
+    "id": 231,
+    "cardType": "answer",
+    "text": "Multiple stab wounds.",
+    "isUsed": false
+  },
+  {
+    "id": 232,
+    "cardType": "answer",
+    "text": "Flightless birds.",
+    "isUsed": false
+  },
+  {
+    "id": 233,
+    "cardType": "answer",
+    "text": "Grave robbing.",
+    "isUsed": false
+  },
+  {
+    "id": 234,
+    "cardType": "answer",
+    "text": "Home video of Oprah sobbing into a Lean Cuisine&copy;.",
+    "isUsed": false
+  },
+  {
+    "id": 235,
+    "cardType": "answer",
+    "text": "Oompa-Loompas.",
+    "isUsed": false
+  },
+  {
+    "id": 236,
+    "cardType": "answer",
+    "text": "A murder most foul.",
+    "isUsed": false
+  },
+  {
+    "id": 237,
+    "cardType": "answer",
+    "text": "Tentacle porn.",
+    "isUsed": false
+  },
+  {
+    "id": 238,
+    "cardType": "answer",
+    "text": "Daddy issues.",
+    "isUsed": false
+  },
+  {
+    "id": 239,
+    "cardType": "answer",
+    "text": "Bill Nye the Science Guy.",
+    "isUsed": false
+  },
+  {
+    "id": 240,
+    "cardType": "answer",
+    "text": "Peeing a little bit.",
+    "isUsed": false
+  },
+  {
+    "id": 241,
+    "cardType": "answer",
+    "text": "The miracle of childbirth.",
+    "isUsed": false
+  },
+  {
+    "id": 242,
+    "cardType": "answer",
+    "text": "Tweeting.",
+    "isUsed": false
+  },
+  {
+    "id": 243,
+    "cardType": "answer",
+    "text": "Another goddamn vampire movie.",
+    "isUsed": false
+  },
+  {
+    "id": 244,
+    "cardType": "answer",
+    "text": "Britney Spears at 55.",
+    "isUsed": false
+  },
+  {
+    "id": 245,
+    "cardType": "answer",
+    "text": "New Age music.",
+    "isUsed": false
+  },
+  {
+    "id": 246,
+    "cardType": "answer",
+    "text": "The Make-A-Wish&reg; Foundation.",
+    "isUsed": false
+  },
+  {
+    "id": 247,
+    "cardType": "answer",
+    "text": "Firing a rifle into the air while balls deep in a squealing hog.",
+    "isUsed": false
+  },
+  {
+    "id": 248,
+    "cardType": "answer",
+    "text": "Active listening.",
+    "isUsed": false
+  },
+  {
+    "id": 249,
+    "cardType": "answer",
+    "text": "Nicolas Cage.",
+    "isUsed": false
+  },
+  {
+    "id": 250,
+    "cardType": "answer",
+    "text": "72 virgins.",
+    "isUsed": false
+  },
+  {
+    "id": 251,
+    "cardType": "answer",
+    "text": "Stranger danger.",
+    "isUsed": false
+  },
+  {
+    "id": 252,
+    "cardType": "answer",
+    "text": "Hope.",
+    "isUsed": false
+  },
+  {
+    "id": 253,
+    "cardType": "answer",
+    "text": "A gassy antelope.",
+    "isUsed": false
+  },
+  {
+    "id": 254,
+    "cardType": "answer",
+    "text": "BATMAN!!!",
+    "isUsed": false
+  },
+  {
+    "id": 255,
+    "cardType": "answer",
+    "text": "Chivalry.",
+    "isUsed": false
+  },
+  {
+    "id": 256,
+    "cardType": "answer",
+    "text": "Passing a kidney stone.",
+    "isUsed": false
+  },
+  {
+    "id": 257,
+    "cardType": "answer",
+    "text": "Black people.",
+    "isUsed": false
+  },
+  {
+    "id": 258,
+    "cardType": "answer",
+    "text": "Natalie Portman.",
+    "isUsed": false
+  },
+  {
+    "id": 259,
+    "cardType": "answer",
+    "text": "A mime having a stroke.",
+    "isUsed": false
+  },
+  {
+    "id": 260,
+    "cardType": "answer",
+    "text": "Classist undertones.",
+    "isUsed": false
+  },
+  {
+    "id": 261,
+    "cardType": "answer",
+    "text": "Sean Penn.",
+    "isUsed": false
+  },
+  {
+    "id": 262,
+    "cardType": "answer",
+    "text": "A mating display.",
+    "isUsed": false
+  },
+  {
+    "id": 263,
+    "cardType": "answer",
+    "text": "The Holy Bible.",
+    "isUsed": false
+  },
+  {
+    "id": 264,
+    "cardType": "answer",
+    "text": "Hot Pockets&copy;.",
+    "isUsed": false
+  },
+  {
+    "id": 265,
+    "cardType": "answer",
+    "text": "A sad handjob.",
+    "isUsed": false
+  },
+  {
+    "id": 266,
+    "cardType": "answer",
+    "text": "Pulling out.",
+    "isUsed": false
+  },
+  {
+    "id": 267,
+    "cardType": "answer",
+    "text": "Serfdom.",
+    "isUsed": false
+  },
+  {
+    "id": 268,
+    "cardType": "answer",
+    "text": "Pixelated bukkake.",
+    "isUsed": false
+  },
+  {
+    "id": 269,
+    "cardType": "answer",
+    "text": "Dropping a chandelier on your enemies and riding the rope up.",
+    "isUsed": false
+  },
+  {
+    "id": 270,
+    "cardType": "answer",
+    "text": "Jew-fros.",
+    "isUsed": false
+  },
+  {
+    "id": 271,
+    "cardType": "answer",
+    "text": "Waiting 'til marriage.",
+    "isUsed": false
+  },
+  {
+    "id": 272,
+    "cardType": "answer",
+    "text": "Euphoria&trade; by Calvin Klein.",
+    "isUsed": false
+  },
+  {
+    "id": 273,
+    "cardType": "answer",
+    "text": "The World of Warcraft.",
+    "isUsed": false
+  },
+  {
+    "id": 274,
+    "cardType": "answer",
+    "text": "Lunchables&trade;.",
+    "isUsed": false
+  },
+  {
+    "id": 275,
+    "cardType": "answer",
+    "text": "The Kool-Aid Man.",
+    "isUsed": false
+  },
+  {
+    "id": 276,
+    "cardType": "answer",
+    "text": "The Trail of Tears.",
+    "isUsed": false
+  },
+  {
+    "id": 277,
+    "cardType": "answer",
+    "text": "Self-loathing.",
+    "isUsed": false
+  },
+  {
+    "id": 278,
+    "cardType": "answer",
+    "text": "A falcon with a cap on its head.",
+    "isUsed": false
+  },
+  {
+    "id": 279,
+    "cardType": "answer",
+    "text": "Historically black colleges.",
+    "isUsed": false
+  },
+  {
+    "id": 280,
+    "cardType": "answer",
+    "text": "Not reciprocating oral sex.",
+    "isUsed": false
+  },
+  {
+    "id": 281,
+    "cardType": "answer",
+    "text": "Global warming.",
+    "isUsed": false
+  },
+  {
+    "id": 282,
+    "cardType": "answer",
+    "text": "Ghosts.",
+    "isUsed": false
+  },
+  {
+    "id": 283,
+    "cardType": "answer",
+    "text": "World peace.",
+    "isUsed": false
+  },
+  {
+    "id": 284,
+    "cardType": "answer",
+    "text": "A can of whoop-ass.",
+    "isUsed": false
+  },
+  {
+    "id": 285,
+    "cardType": "answer",
+    "text": "The Dance of the Sugar Plum Fairy.",
+    "isUsed": false
+  },
+  {
+    "id": 286,
+    "cardType": "answer",
+    "text": "A zesty breakfast burrito.",
+    "isUsed": false
+  },
+  {
+    "id": 287,
+    "cardType": "answer",
+    "text": "Switching to Geico&reg;.",
+    "isUsed": false
+  },
+  {
+    "id": 288,
+    "cardType": "answer",
+    "text": "Aaron Burr.",
+    "isUsed": false
+  },
+  {
+    "id": 289,
+    "cardType": "answer",
+    "text": "Picking up girls at the abortion clinic.",
+    "isUsed": false
+  },
+  {
+    "id": 290,
+    "cardType": "answer",
+    "text": "Land mines.",
+    "isUsed": false
+  },
+  {
+    "id": 291,
+    "cardType": "answer",
+    "text": "Former President George W. Bush.",
+    "isUsed": false
+  },
+  {
+    "id": 292,
+    "cardType": "answer",
+    "text": "Geese.",
+    "isUsed": false
+  },
+  {
+    "id": 293,
+    "cardType": "answer",
+    "text": "Mutually-assured destruction.",
+    "isUsed": false
+  },
+  {
+    "id": 294,
+    "cardType": "answer",
+    "text": "College.",
+    "isUsed": false
+  },
+  {
+    "id": 295,
+    "cardType": "answer",
+    "text": "Date rape.",
+    "isUsed": false
+  },
+  {
+    "id": 296,
+    "cardType": "answer",
+    "text": "Bling.",
+    "isUsed": false
+  },
+  {
+    "id": 297,
+    "cardType": "answer",
+    "text": "A gentle caress of the inner thigh.",
+    "isUsed": false
+  },
+  {
+    "id": 298,
+    "cardType": "answer",
+    "text": "A time travel paradox.",
+    "isUsed": false
+  },
+  {
+    "id": 299,
+    "cardType": "answer",
+    "text": "Seppuku.",
+    "isUsed": false
+  },
+  {
+    "id": 300,
+    "cardType": "answer",
+    "text": "Poor life choices.",
+    "isUsed": false
+  },
+  {
+    "id": 301,
+    "cardType": "answer",
+    "text": "Waking up half-naked in a Denny's parking lot.",
+    "isUsed": false
+  },
+  {
+    "id": 302,
+    "cardType": "answer",
+    "text": "Italians.",
+    "isUsed": false
+  },
+  {
+    "id": 303,
+    "cardType": "answer",
+    "text": "GoGurt&reg;.",
+    "isUsed": false
+  },
+  {
+    "id": 304,
+    "cardType": "answer",
+    "text": "Finger painting.",
+    "isUsed": false
+  },
+  {
+    "id": 305,
+    "cardType": "answer",
+    "text": "Robert Downey, Jr.",
+    "isUsed": false
+  },
+  {
+    "id": 306,
+    "cardType": "answer",
+    "text": "My soul.",
+    "isUsed": false
+  },
+  {
+    "id": 307,
+    "cardType": "answer",
+    "text": "Smegma.",
+    "isUsed": false
+  },
+  {
+    "id": 308,
+    "cardType": "answer",
+    "text": "Embryonic stem cells.",
+    "isUsed": false
+  },
+  {
+    "id": 309,
+    "cardType": "answer",
+    "text": "The South.",
+    "isUsed": false
+  },
+  {
+    "id": 310,
+    "cardType": "answer",
+    "text": "Christopher Walken.",
+    "isUsed": false
+  },
+  {
+    "id": 311,
+    "cardType": "answer",
+    "text": "Gloryholes.",
+    "isUsed": false
+  },
+  {
+    "id": 312,
+    "cardType": "answer",
+    "text": "Pretending to care.",
+    "isUsed": false
+  },
+  {
+    "id": 313,
+    "cardType": "answer",
+    "text": "Public ridicule.",
+    "isUsed": false
+  },
+  {
+    "id": 314,
+    "cardType": "answer",
+    "text": "A tiny horse.",
+    "isUsed": false
+  },
+  {
+    "id": 315,
+    "cardType": "answer",
+    "text": "Arnold Schwarzenegger.",
+    "isUsed": false
+  },
+  {
+    "id": 316,
+    "cardType": "answer",
+    "text": "A stray pube.",
+    "isUsed": false
+  },
+  {
+    "id": 317,
+    "cardType": "answer",
+    "text": "Jerking off into a pool of children's tears.",
+    "isUsed": false
+  },
+  {
+    "id": 318,
+    "cardType": "answer",
+    "text": "Child abuse.",
+    "isUsed": false
+  },
+  {
+    "id": 319,
+    "cardType": "answer",
+    "text": "Glenn Beck convulsively vomiting as a brood of crab spiders hatches in his brain and erupts from his tear ducts.",
+    "isUsed": false
+  },
+  {
+    "id": 320,
+    "cardType": "answer",
+    "text": "Menstruation.",
+    "isUsed": false
+  },
+  {
+    "id": 321,
+    "cardType": "answer",
+    "text": "A sassy black woman.",
+    "isUsed": false
+  },
+  {
+    "id": 322,
+    "cardType": "answer",
+    "text": "Re-gifting.",
+    "isUsed": false
+  },
+  {
+    "id": 323,
+    "cardType": "answer",
+    "text": "Penis envy.",
+    "isUsed": false
+  },
+  {
+    "id": 324,
+    "cardType": "answer",
+    "text": "A sausage festival.",
+    "isUsed": false
+  },
+  {
+    "id": 325,
+    "cardType": "answer",
+    "text": "Getting really high.",
+    "isUsed": false
+  },
+  {
+    "id": 326,
+    "cardType": "answer",
+    "text": "Drinking alone.",
+    "isUsed": false
+  },
+  {
+    "id": 327,
+    "cardType": "answer",
+    "text": "Too much hair gel.",
+    "isUsed": false
+  },
+  {
+    "id": 328,
+    "cardType": "answer",
+    "text": "Hulk Hogan.",
+    "isUsed": false
+  },
+  {
+    "id": 329,
+    "cardType": "answer",
+    "text": "Overcompensation.",
+    "isUsed": false
+  },
+  {
+    "id": 330,
+    "cardType": "answer",
+    "text": "Foreskin.",
+    "isUsed": false
+  },
+  {
+    "id": 331,
+    "cardType": "answer",
+    "text": "Free samples.",
+    "isUsed": false
+  },
+  {
+    "id": 332,
+    "cardType": "answer",
+    "text": "Shaquille O'Neal's acting career.",
+    "isUsed": false
+  },
+  {
+    "id": 333,
+    "cardType": "answer",
+    "text": "Five-Dollar Footlongs&trade;.",
+    "isUsed": false
+  },
+  {
+    "id": 334,
+    "cardType": "answer",
+    "text": "Whipping it out.",
+    "isUsed": false
+  },
+  {
+    "id": 335,
+    "cardType": "answer",
+    "text": "A snapping turtle biting the tip of your penis.",
+    "isUsed": false
+  },
+  {
+    "id": 336,
+    "cardType": "answer",
+    "text": "Muhammad (Praise Be Unto Him).",
+    "isUsed": false
+  },
+  {
+    "id": 337,
+    "cardType": "answer",
+    "text": "Half-assed foreplay.",
+    "isUsed": false
+  },
+  {
+    "id": 338,
+    "cardType": "answer",
+    "text": "Dental dams.",
+    "isUsed": false
+  },
+  {
+    "id": 339,
+    "cardType": "answer",
+    "text": "Being a dick to children.",
+    "isUsed": false
+  },
+  {
+    "id": 340,
+    "cardType": "answer",
+    "text": "Famine.",
+    "isUsed": false
+  },
+  {
+    "id": 341,
+    "cardType": "answer",
+    "text": "Chainsaws for hands.",
+    "isUsed": false
+  },
+  {
+    "id": 342,
+    "cardType": "answer",
+    "text": "A gypsy curse.",
+    "isUsed": false
+  },
+  {
+    "id": 343,
+    "cardType": "answer",
+    "text": "AXE Body Spray.",
+    "isUsed": false
+  },
+  {
+    "id": 344,
+    "cardType": "answer",
+    "text": "The Force.",
+    "isUsed": false
+  },
+  {
+    "id": 345,
+    "cardType": "answer",
+    "text": "Explosions.",
+    "isUsed": false
+  },
+  {
+    "id": 346,
+    "cardType": "answer",
+    "text": "Cybernetic enhancements.",
+    "isUsed": false
+  },
+  {
+    "id": 347,
+    "cardType": "answer",
+    "text": "Customer service representatives.",
+    "isUsed": false
+  },
+  {
+    "id": 348,
+    "cardType": "answer",
+    "text": "White privilege.",
+    "isUsed": false
+  },
+  {
+    "id": 349,
+    "cardType": "answer",
+    "text": "Gandhi.",
+    "isUsed": false
+  },
+  {
+    "id": 350,
+    "cardType": "answer",
+    "text": "Road head.",
+    "isUsed": false
+  },
+  {
+    "id": 351,
+    "cardType": "answer",
+    "text": "God.",
+    "isUsed": false
+  },
+  {
+    "id": 352,
+    "cardType": "answer",
+    "text": "Poorly-timed Holocaust jokes.",
+    "isUsed": false
+  },
+  {
+    "id": 353,
+    "cardType": "answer",
+    "text": "8 oz. of sweet Mexican black-tar heroin.",
+    "isUsed": false
+  },
+  {
+    "id": 354,
+    "cardType": "answer",
+    "text": "Judge Judy.",
+    "isUsed": false
+  },
+  {
+    "id": 355,
+    "cardType": "answer",
+    "text": "The Little Engine That Could.",
+    "isUsed": false
+  },
+  {
+    "id": 356,
+    "cardType": "answer",
+    "text": "Altar boys.",
+    "isUsed": false
+  },
+  {
+    "id": 357,
+    "cardType": "answer",
+    "text": "Mr. Clean, right behind you.",
+    "isUsed": false
+  },
+  {
+    "id": 358,
+    "cardType": "answer",
+    "text": "Vehicular manslaughter.",
+    "isUsed": false
+  },
+  {
+    "id": 359,
+    "cardType": "answer",
+    "text": "Dwarf tossing.",
+    "isUsed": false
+  },
+  {
+    "id": 360,
+    "cardType": "answer",
+    "text": "Friction.",
+    "isUsed": false
+  },
+  {
+    "id": 361,
+    "cardType": "answer",
+    "text": "Lady Gaga.",
+    "isUsed": false
+  },
+  {
+    "id": 362,
+    "cardType": "answer",
+    "text": "Scientology.",
+    "isUsed": false
+  },
+  {
+    "id": 363,
+    "cardType": "answer",
+    "text": "Justin Bieber.",
+    "isUsed": false
+  },
+  {
+    "id": 364,
+    "cardType": "answer",
+    "text": "A death ray.",
+    "isUsed": false
+  },
+  {
+    "id": 365,
+    "cardType": "answer",
+    "text": "Vigilante justice.",
+    "isUsed": false
+  },
+  {
+    "id": 366,
+    "cardType": "answer",
+    "text": "The Pope.",
+    "isUsed": false
+  },
+  {
+    "id": 367,
+    "cardType": "answer",
+    "text": "A sea of troubles.",
+    "isUsed": false
+  },
+  {
+    "id": 368,
+    "cardType": "answer",
+    "text": "Alcoholism.",
+    "isUsed": false
+  },
+  {
+    "id": 369,
+    "cardType": "answer",
+    "text": "Poor people.",
+    "isUsed": false
+  },
+  {
+    "id": 370,
+    "cardType": "answer",
+    "text": "A fetus.",
+    "isUsed": false
+  },
+  {
+    "id": 371,
+    "cardType": "answer",
+    "text": "Women in yogurt commercials.",
+    "isUsed": false
+  },
+  {
+    "id": 372,
+    "cardType": "answer",
+    "text": "Exactly what you'd expect.",
+    "isUsed": false
+  },
+  {
+    "id": 373,
+    "cardType": "answer",
+    "text": "Flesh-eating bacteria.",
+    "isUsed": false
+  },
+  {
+    "id": 374,
+    "cardType": "answer",
+    "text": "My genitals.",
+    "isUsed": false
+  },
+  {
+    "id": 375,
+    "cardType": "answer",
+    "text": "A balanced breakfast.",
+    "isUsed": false
+  },
+  {
+    "id": 376,
+    "cardType": "answer",
+    "text": "Dick Cheney.",
+    "isUsed": false
+  },
+  {
+    "id": 377,
+    "cardType": "answer",
+    "text": "Lockjaw.",
+    "isUsed": false
+  },
+  {
+    "id": 378,
+    "cardType": "answer",
+    "text": "Natural male enhancement.",
+    "isUsed": false
+  },
+  {
+    "id": 379,
+    "cardType": "answer",
+    "text": "Take-backsies.",
+    "isUsed": false
+  },
+  {
+    "id": 380,
+    "cardType": "answer",
+    "text": "Winking at old people.",
+    "isUsed": false
+  },
+  {
+    "id": 381,
+    "cardType": "answer",
+    "text": "Opposable thumbs.",
+    "isUsed": false
+  },
+  {
+    "id": 382,
+    "cardType": "answer",
+    "text": "Flying sex snakes.",
+    "isUsed": false
+  },
+  {
+    "id": 383,
+    "cardType": "answer",
+    "text": "Passive-aggressive Post-it notes.",
+    "isUsed": false
+  },
+  {
+    "id": 384,
+    "cardType": "answer",
+    "text": "Inappropriate yodeling.",
+    "isUsed": false
+  },
+  {
+    "id": 385,
+    "cardType": "answer",
+    "text": "Golden showers.",
+    "isUsed": false
+  },
+  {
+    "id": 386,
+    "cardType": "answer",
+    "text": "Racism.",
+    "isUsed": false
+  },
+  {
+    "id": 387,
+    "cardType": "answer",
+    "text": "Copping a feel.",
+    "isUsed": false
+  },
+  {
+    "id": 388,
+    "cardType": "answer",
+    "text": "Auschwitz.",
+    "isUsed": false
+  },
+  {
+    "id": 389,
+    "cardType": "answer",
+    "text": "Elderly Japanese men.",
+    "isUsed": false
+  },
+  {
+    "id": 390,
+    "cardType": "answer",
+    "text": "Raping and pillaging.",
+    "isUsed": false
+  },
+  {
+    "id": 391,
+    "cardType": "answer",
+    "text": "Kids with ass cancer.",
+    "isUsed": false
+  },
+  {
+    "id": 392,
+    "cardType": "answer",
+    "text": "Pictures of boobs.",
+    "isUsed": false
+  },
+  {
+    "id": 393,
+    "cardType": "answer",
+    "text": "The homosexual agenda.",
+    "isUsed": false
+  },
+  {
+    "id": 394,
+    "cardType": "answer",
+    "text": "A homoerotic volleyball montage.",
+    "isUsed": false
+  },
+  {
+    "id": 395,
+    "cardType": "answer",
+    "text": "Sexual tension.",
+    "isUsed": false
+  },
+  {
+    "id": 396,
+    "cardType": "answer",
+    "text": "Hurricane Katrina.",
+    "isUsed": false
+  },
+  {
+    "id": 397,
+    "cardType": "answer",
+    "text": "Fiery poops.",
+    "isUsed": false
+  },
+  {
+    "id": 398,
+    "cardType": "answer",
+    "text": "Science.",
+    "isUsed": false
+  },
+  {
+    "id": 399,
+    "cardType": "answer",
+    "text": "Dry heaving.",
+    "isUsed": false
+  },
+  {
+    "id": 400,
+    "cardType": "answer",
+    "text": "Cards Against Humanity.",
+    "isUsed": false
+  },
+  {
+    "id": 401,
+    "cardType": "answer",
+    "text": "Fancy Feast&copy;.",
+    "isUsed": false
+  },
+  {
+    "id": 402,
+    "cardType": "answer",
+    "text": "A bleached asshole.",
+    "isUsed": false
+  },
+  {
+    "id": 403,
+    "cardType": "answer",
+    "text": "Lumberjack fantasies.",
+    "isUsed": false
+  },
+  {
+    "id": 404,
+    "cardType": "answer",
+    "text": "American Gladiators.",
+    "isUsed": false
+  },
+  {
+    "id": 405,
+    "cardType": "answer",
+    "text": "Autocannibalism.",
+    "isUsed": false
+  },
+  {
+    "id": 406,
+    "cardType": "answer",
+    "text": "Sean Connery.",
+    "isUsed": false
+  },
+  {
+    "id": 407,
+    "cardType": "answer",
+    "text": "William Shatner.",
+    "isUsed": false
+  },
+  {
+    "id": 408,
+    "cardType": "answer",
+    "text": "Domino's&trade; Oreo&trade; Dessert Pizza.",
+    "isUsed": false
+  },
+  {
+    "id": 409,
+    "cardType": "answer",
+    "text": "An asymmetric boob job.",
+    "isUsed": false
+  },
+  {
+    "id": 410,
+    "cardType": "answer",
+    "text": "Centaurs.",
+    "isUsed": false
+  },
+  {
+    "id": 411,
+    "cardType": "answer",
+    "text": "A micropenis.",
+    "isUsed": false
+  },
+  {
+    "id": 412,
+    "cardType": "answer",
+    "text": "Asians who aren't good at math.",
+    "isUsed": false
+  },
+  {
+    "id": 413,
+    "cardType": "answer",
+    "text": "The milk man.",
+    "isUsed": false
+  },
+  {
+    "id": 414,
+    "cardType": "answer",
+    "text": "Waterboarding.",
+    "isUsed": false
+  },
+  {
+    "id": 415,
+    "cardType": "answer",
+    "text": "Wifely duties.",
+    "isUsed": false
+  },
+  {
+    "id": 416,
+    "cardType": "answer",
+    "text": "Loose lips.",
+    "isUsed": false
+  },
+  {
+    "id": 417,
+    "cardType": "answer",
+    "text": "The Blood of Christ.",
+    "isUsed": false
+  },
+  {
+    "id": 418,
+    "cardType": "answer",
+    "text": "Actually taking candy from a baby.",
+    "isUsed": false
+  },
+  {
+    "id": 419,
+    "cardType": "answer",
+    "text": "The token minority.",
+    "isUsed": false
+  },
+  {
+    "id": 420,
+    "cardType": "answer",
+    "text": "Jibber-jabber.",
+    "isUsed": false
+  },
+  {
+    "id": 421,
+    "cardType": "answer",
+    "text": "A brain tumor.",
+    "isUsed": false
+  },
+  {
+    "id": 422,
+    "cardType": "answer",
+    "text": "Bingeing and purging.",
+    "isUsed": false
+  },
+  {
+    "id": 423,
+    "cardType": "answer",
+    "text": "A clandestine butt scratch.",
+    "isUsed": false
+  },
+  {
+    "id": 424,
+    "cardType": "answer",
+    "text": "The Chinese gymnastics team.",
+    "isUsed": false
+  },
+  {
+    "id": 425,
+    "cardType": "answer",
+    "text": "Prancing.",
+    "isUsed": false
+  },
+  {
+    "id": 426,
+    "cardType": "answer",
+    "text": "The Hamburglar.",
+    "isUsed": false
+  },
+  {
+    "id": 427,
+    "cardType": "answer",
+    "text": "Police brutality.",
+    "isUsed": false
+  },
+  {
+    "id": 428,
+    "cardType": "answer",
+    "text": "Man meat.",
+    "isUsed": false
+  },
+  {
+    "id": 429,
+    "cardType": "answer",
+    "text": "Forgetting the Alamo.",
+    "isUsed": false
+  },
+  {
+    "id": 430,
+    "cardType": "answer",
+    "text": "Eating the last known bison.",
+    "isUsed": false
+  },
+  {
+    "id": 431,
+    "cardType": "answer",
+    "text": "Crystal meth.",
+    "isUsed": false
+  },
+  {
+    "id": 432,
+    "cardType": "answer",
+    "text": "Booby-trapping the house to foil burglars.",
+    "isUsed": false
+  },
+  {
+    "id": 433,
+    "cardType": "answer",
+    "text": "My inner demons.",
+    "isUsed": false
+  },
+  {
+    "id": 434,
+    "cardType": "answer",
+    "text": "Third base.",
+    "isUsed": false
+  },
+  {
+    "id": 435,
+    "cardType": "answer",
+    "text": "Soiling oneself.",
+    "isUsed": false
+  },
+  {
+    "id": 436,
+    "cardType": "answer",
+    "text": "Laying an egg.",
+    "isUsed": false
+  },
+  {
+    "id": 437,
+    "cardType": "answer",
+    "text": "Giving 110%.",
+    "isUsed": false
+  },
+  {
+    "id": 438,
+    "cardType": "answer",
+    "text": "Hot people.",
+    "isUsed": false
+  },
+  {
+    "id": 439,
+    "cardType": "answer",
+    "text": "Friendly fire.",
+    "isUsed": false
+  },
+  {
+    "id": 440,
+    "cardType": "answer",
+    "text": "Count Chocula.",
+    "isUsed": false
+  },
+  {
+    "id": 441,
+    "cardType": "answer",
+    "text": "Pac-Man uncontrollably guzzling cum.",
+    "isUsed": false
+  },
+  {
+    "id": 442,
+    "cardType": "answer",
+    "text": "Estrogen.",
+    "isUsed": false
+  },
+  {
+    "id": 443,
+    "cardType": "answer",
+    "text": "My vagina.",
+    "isUsed": false
+  },
+  {
+    "id": 444,
+    "cardType": "answer",
+    "text": "Kanye West.",
+    "isUsed": false
+  },
+  {
+    "id": 445,
+    "cardType": "answer",
+    "text": "A robust mongoloid.",
+    "isUsed": false
+  },
+  {
+    "id": 446,
+    "cardType": "answer",
+    "text": "The Donald Trump Seal of Approval&trade;.",
+    "isUsed": false
+  },
+  {
+    "id": 447,
+    "cardType": "answer",
+    "text": "The true meaning of Christmas.",
+    "isUsed": false
+  },
+  {
+    "id": 448,
+    "cardType": "answer",
+    "text": "Her Royal Highness, Queen Elizabeth II.",
+    "isUsed": false
+  },
+  {
+    "id": 449,
+    "cardType": "answer",
+    "text": "An honest cop with nothing left to lose.",
+    "isUsed": false
+  },
+  {
+    "id": 450,
+    "cardType": "answer",
+    "text": "Feeding Rosie O'Donnell.",
+    "isUsed": false
+  },
+  {
+    "id": 451,
+    "cardType": "answer",
+    "text": "The Amish.",
+    "isUsed": false
+  },
+  {
+    "id": 452,
+    "cardType": "answer",
+    "text": "The terrorists.",
+    "isUsed": false
+  },
+  {
+    "id": 453,
+    "cardType": "answer",
+    "text": "When you fart and a little bit comes out.",
+    "isUsed": false
+  },
+  {
+    "id": 454,
+    "cardType": "answer",
+    "text": "Pooping back and forth. Forever.",
+    "isUsed": false
+  },
+  {
+    "id": 455,
+    "cardType": "answer",
+    "text": "Friends who eat all the snacks.",
+    "isUsed": false
+  },
+  {
+    "id": 456,
+    "cardType": "answer",
+    "text": "Cockfights.",
+    "isUsed": false
+  },
+  {
+    "id": 457,
+    "cardType": "answer",
+    "text": "Bitches.",
+    "isUsed": false
+  },
+  {
+    "id": 458,
+    "cardType": "answer",
+    "text": "Seduction.",
+    "isUsed": false
+  },
+  {
+    "id": 459,
+    "cardType": "question",
+    "text": "_?  There's an app for that.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 460,
+    "cardType": "question",
+    "text": "Why can't I sleep at night?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 461,
+    "cardType": "question",
+    "text": "What's that smell?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 462,
+    "cardType": "question",
+    "text": "I got 99 problems but _ ain't one.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 463,
+    "cardType": "question",
+    "text": "Maybe she's born with it.  Maybe it's _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 464,
+    "cardType": "question",
+    "text": "What's the next Happy Meal&copy; toy?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 465,
+    "cardType": "question",
+    "text": "Anthropologists have recently discovered a primitive tribe that worships _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 466,
+    "cardType": "question",
+    "text": "It's a pity that kids these days are all getting involved with _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 467,
+    "cardType": "question",
+    "text": "During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 468,
+    "cardType": "question",
+    "text": "Alternative medicine is now embracing the curative powers of _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 469,
+    "cardType": "question",
+    "text": "And the Academy Award for _ goes to _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 470,
+    "cardType": "question",
+    "text": "What's that sound?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 471,
+    "cardType": "question",
+    "text": "What ended my last relationship?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 472,
+    "cardType": "question",
+    "text": "MTV's new reality show features eight washed-up celebrities living with _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 473,
+    "cardType": "question",
+    "text": "I drink to forget _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 474,
+    "cardType": "question",
+    "text": "I'm sorry professor, but I couldn't complete my homework because of _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 475,
+    "cardType": "question",
+    "text": "What is Batman's guilty pleasure?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 476,
+    "cardType": "question",
+    "text": "This is the way the world ends <br> This is the way the world ends <br> Not with a bang but with _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 477,
+    "cardType": "question",
+    "text": "What's a girl's best friend?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 478,
+    "cardType": "question",
+    "text": "TSA guidelines now prohibit _ on airplanes.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 479,
+    "cardType": "question",
+    "text": "_.  That's how I want to die.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 480,
+    "cardType": "question",
+    "text": "For my next trick, I will pull _ out of _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 481,
+    "cardType": "question",
+    "text": "In the new Disney Channel Original Movie, Hannah Montana struggles with _ for the first time.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 482,
+    "cardType": "question",
+    "text": "_ is a slippery slope that leads to _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 483,
+    "cardType": "question",
+    "text": "What does Dick Cheney prefer?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 484,
+    "cardType": "question",
+    "text": "Dear Abby, I'm having some trouble with _ and would like your advice.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 485,
+    "cardType": "question",
+    "text": "Instead of coal, Santa now gives the bad children _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 486,
+    "cardType": "question",
+    "text": "What's the most emo?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 487,
+    "cardType": "question",
+    "text": "In 1,000 years when paper money is but a distant memory, _ will be our currency.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 488,
+    "cardType": "question",
+    "text": "What's the next superhero/sidekick duo?",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 489,
+    "cardType": "question",
+    "text": "In M. Night Shyamalan's new movie, Bruce Willis discovers that _ had really been _ all along.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 490,
+    "cardType": "question",
+    "text": "A romantic, candlelit dinner would be incomplete without _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 491,
+    "cardType": "question",
+    "text": "_.  Becha can't have just one!",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 492,
+    "cardType": "question",
+    "text": "White people like _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 493,
+    "cardType": "question",
+    "text": "_.  High five, bro.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 494,
+    "cardType": "question",
+    "text": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 495,
+    "cardType": "question",
+    "text": "BILLY MAYS HERE FOR _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 496,
+    "cardType": "question",
+    "text": "In a world ravaged by _, our only solace is _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 497,
+    "cardType": "question",
+    "text": "War!  What is it good for?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 498,
+    "cardType": "question",
+    "text": "During sex, I like to think about _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 499,
+    "cardType": "question",
+    "text": "What are my parents hiding from me?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 500,
+    "cardType": "question",
+    "text": "What will always get you laid?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 501,
+    "cardType": "question",
+    "text": "In L.A. County Jail, word is you can trade 200 cigarettes for _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 502,
+    "cardType": "question",
+    "text": "What did I bring back from Mexico?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 503,
+    "cardType": "question",
+    "text": "What don't you want to find in your Chinese food?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 504,
+    "cardType": "question",
+    "text": "What will I bring back in time to convince people that I am a powerful wizard?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 505,
+    "cardType": "question",
+    "text": "How am I maintaining my relationship status?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 506,
+    "cardType": "question",
+    "text": "_.  It's a trap!",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 507,
+    "cardType": "question",
+    "text": "Coming to Broadway this season, _: The Musical.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 508,
+    "cardType": "question",
+    "text": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 509,
+    "cardType": "question",
+    "text": "After the earthquake, Sean Penn brought _ to the people of Haiti.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 510,
+    "cardType": "question",
+    "text": "Next on ESPN2, the World Series of _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 511,
+    "cardType": "question",
+    "text": "Step 1: _.  Step 2: _.  Step 3: Profit.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 512,
+    "cardType": "question",
+    "text": "Rumor has it that Vladimir Putin's favorite dish is _ stuffed with _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 513,
+    "cardType": "question",
+    "text": "But before I kill you, Mr. Bond, I must show you _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 514,
+    "cardType": "question",
+    "text": "What gives me uncontrollable gas?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 515,
+    "cardType": "question",
+    "text": "What do old people smell like?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 516,
+    "cardType": "question",
+    "text": "The class field trip was completely ruined by _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 517,
+    "cardType": "question",
+    "text": "When Pharaoh remained unmoved, Moses called down a Plague of _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 518,
+    "cardType": "question",
+    "text": "What's my secret power?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 519,
+    "cardType": "question",
+    "text": "What's there a ton of in heaven?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 520,
+    "cardType": "question",
+    "text": "What would grandma find disturbing, yet oddly charming?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 521,
+    "cardType": "question",
+    "text": "I never truly understood _ until I encountered _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 522,
+    "cardType": "question",
+    "text": "What did the U.S. airdrop to the children of Afghanistan?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 523,
+    "cardType": "question",
+    "text": "What helps Obama unwind?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 524,
+    "cardType": "question",
+    "text": "What did Vin Diesel eat for dinner?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 525,
+    "cardType": "question",
+    "text": "_: good to the last drop.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 526,
+    "cardType": "question",
+    "text": "Why am I sticky?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 527,
+    "cardType": "question",
+    "text": "What gets better with age?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 528,
+    "cardType": "question",
+    "text": "_: kid-tested, mother-approved.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 529,
+    "cardType": "question",
+    "text": "What's the crustiest?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 530,
+    "cardType": "question",
+    "text": "What's Teach for America using to inspire inner city students to succeed?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 531,
+    "cardType": "question",
+    "text": "Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 532,
+    "cardType": "question",
+    "text": "Life for American Indians was forever changed when the White Man introduced them to _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 533,
+    "cardType": "question",
+    "text": "Make a haiku.",
+    "numAnswers": 3,
+    "isUsed": false
+  },
+  {
+    "id": 534,
+    "cardType": "question",
+    "text": "I do not know with what weapons World War III will be fought, but World War IV will be fought with _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 535,
+    "cardType": "question",
+    "text": "Why do I hurt all over?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 536,
+    "cardType": "question",
+    "text": "What am I giving up for Lent?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 537,
+    "cardType": "question",
+    "text": "In Michael Jackson's final moments, he thought about _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 538,
+    "cardType": "question",
+    "text": "In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 539,
+    "cardType": "question",
+    "text": "When I am President of the United States, I will create the Department of _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 540,
+    "cardType": "question",
+    "text": "Lifetime&copy; presents _, the story of _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 541,
+    "cardType": "question",
+    "text": "When I am a billionaire, I shall erect a 50-foot statue to commemorate _.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 542,
+    "cardType": "question",
+    "text": "When I was tripping on acid, _ turned into _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 543,
+    "cardType": "question",
+    "text": "That's right, I killed _.  How, you ask?  _.",
+    "numAnswers": 2,
+    "isUsed": false
+  },
+  {
+    "id": 544,
+    "cardType": "question",
+    "text": "What's my anti-drug?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 545,
+    "cardType": "question",
+    "text": "_ + _ = _.",
+    "numAnswers": 3,
+    "isUsed": false
+  },
+  {
+    "id": 546,
+    "cardType": "question",
+    "text": "What never fails to liven up the party?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 547,
+    "cardType": "question",
+    "text": "What's the new fad diet?",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 548,
+    "cardType": "question",
+    "text": "Major League Baseball has banned _ for giving players an unfair advantage.",
+    "numAnswers": 1,
+    "isUsed": false
+  },
+  {
+    "id": 549,
+    "cardType": "answer",
+    "text": "A big black dick.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 550,
+    "cardType": "answer",
+    "text": "A beached whale.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 551,
+    "cardType": "answer",
+    "text": "A bloody pacifier.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 552,
+    "cardType": "answer",
+    "text": "A crappy little hand.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 553,
+    "cardType": "answer",
+    "text": "A low standard of living.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 554,
+    "cardType": "answer",
+    "text": "A nuanced critique.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 555,
+    "cardType": "answer",
+    "text": "Panty raids.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 556,
+    "cardType": "answer",
+    "text": "A passionate Latino lover.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 557,
+    "cardType": "answer",
+    "text": "A rival dojo.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 558,
+    "cardType": "answer",
+    "text": "A web of lies.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 559,
+    "cardType": "answer",
+    "text": "A woman scorned.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 560,
+    "cardType": "answer",
+    "text": "Clams.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 561,
+    "cardType": "answer",
+    "text": "Apologizing.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 562,
+    "cardType": "answer",
+    "text": "A plunger to the face.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 563,
+    "cardType": "answer",
+    "text": "Neil Patrick Harris.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 564,
+    "cardType": "answer",
+    "text": "Beating your wives.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 565,
+    "cardType": "answer",
+    "text": "Being a dinosaur.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 566,
+    "cardType": "answer",
+    "text": "Shaft.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 567,
+    "cardType": "answer",
+    "text": "Bosnian chicken farmers.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 568,
+    "cardType": "answer",
+    "text": "Nubile slave boys.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 569,
+    "cardType": "answer",
+    "text": "Carnies.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 570,
+    "cardType": "answer",
+    "text": "Coughing into a vagina.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 571,
+    "cardType": "answer",
+    "text": "Suicidal thoughts.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 572,
+    "cardType": "answer",
+    "text": "The ooze.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 573,
+    "cardType": "answer",
+    "text": "Deflowering the princess.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 574,
+    "cardType": "answer",
+    "text": "Dorito breath.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 575,
+    "cardType": "answer",
+    "text": "Eating an albino.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 576,
+    "cardType": "answer",
+    "text": "Enormous Scandinavian women.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 577,
+    "cardType": "answer",
+    "text": "Fabricating statistics.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 578,
+    "cardType": "answer",
+    "text": "Finding a skeleton.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 579,
+    "cardType": "answer",
+    "text": "Gandalf.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 580,
+    "cardType": "answer",
+    "text": "Genetically engineered super-soldiers.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 581,
+    "cardType": "answer",
+    "text": "George Clooney's musk.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 582,
+    "cardType": "answer",
+    "text": "Getting abducted by Peter Pan.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 583,
+    "cardType": "answer",
+    "text": "Getting in her pants, politely.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 584,
+    "cardType": "answer",
+    "text": "Gladiatorial combat.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 585,
+    "cardType": "answer",
+    "text": "Clenched butt cheeks.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 586,
+    "cardType": "answer",
+    "text": "Hipsters.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 587,
+    "cardType": "answer",
+    "text": "Historical revisionism.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 588,
+    "cardType": "answer",
+    "text": "Insatiable bloodlust.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 589,
+    "cardType": "answer",
+    "text": "Jafar.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 590,
+    "cardType": "answer",
+    "text": "Jean-Claude Van Damme.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 591,
+    "cardType": "answer",
+    "text": "Just the tip.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 592,
+    "cardType": "answer",
+    "text": "Mad hacky-sack skills.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 593,
+    "cardType": "answer",
+    "text": "Leveling up.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 594,
+    "cardType": "answer",
+    "text": "Literally eating shit.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 595,
+    "cardType": "answer",
+    "text": "Making the penises kiss.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 596,
+    "cardType": "answer",
+    "text": "24-hour media coverage.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 597,
+    "cardType": "answer",
+    "text": "Medieval Times&copy; Dinner & Tournament.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 598,
+    "cardType": "answer",
+    "text": "Moral ambiguity.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 599,
+    "cardType": "answer",
+    "text": "My machete.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 600,
+    "cardType": "answer",
+    "text": "One thousand Slim Jims.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 601,
+    "cardType": "answer",
+    "text": "Ominous background music.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 602,
+    "cardType": "answer",
+    "text": "Overpowering your father.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 603,
+    "cardType": "answer",
+    "text": "Stockholm Syndrome.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 604,
+    "cardType": "answer",
+    "text": "Quiche.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 605,
+    "cardType": "answer",
+    "text": "Quivering jowls.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 606,
+    "cardType": "answer",
+    "text": "Revenge fucking.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 607,
+    "cardType": "answer",
+    "text": "Ripping into a man's chest and pulling out his still-beating heart.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 608,
+    "cardType": "answer",
+    "text": "Ryan Gosling riding in on a white horse.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 609,
+    "cardType": "answer",
+    "text": "Santa Claus.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 610,
+    "cardType": "answer",
+    "text": "Scrotum tickling.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 611,
+    "cardType": "answer",
+    "text": "Sexual humiliation.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 612,
+    "cardType": "answer",
+    "text": "Sexy Siamese twins.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 613,
+    "cardType": "answer",
+    "text": "Saliva.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 614,
+    "cardType": "answer",
+    "text": "Space muffins.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 615,
+    "cardType": "answer",
+    "text": "Statistically validated stereotypes.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 616,
+    "cardType": "answer",
+    "text": "Sudden Poop Explosion Disease.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 617,
+    "cardType": "answer",
+    "text": "The boners of the elderly.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 618,
+    "cardType": "answer",
+    "text": "The economy.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 619,
+    "cardType": "answer",
+    "text": "Syphilitic insanity.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 620,
+    "cardType": "answer",
+    "text": "The Gulags.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 621,
+    "cardType": "answer",
+    "text": "The harsh light of day.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 622,
+    "cardType": "answer",
+    "text": "The hiccups.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 623,
+    "cardType": "answer",
+    "text": "The shambling corpse of Larry King.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 624,
+    "cardType": "answer",
+    "text": "The four arms of Vishnu.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 625,
+    "cardType": "answer",
+    "text": "Being a busy adult with many important things to do.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 626,
+    "cardType": "answer",
+    "text": "Tripping balls.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 627,
+    "cardType": "answer",
+    "text": "Words, words, words.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 628,
+    "cardType": "answer",
+    "text": "Zeus's sexual appetites.",
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 629,
+    "cardType": "question",
+    "text": "My plan for world domination begins with _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 630,
+    "cardType": "question",
+    "text": "The CIA now interrogates enemy agents by repeatedly subjecting them to _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 631,
+    "cardType": "question",
+    "text": "Dear Sir or Madam, We regret to inform you that the Office of _ has denied your request for _",
+    "numAnswers": 2,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 632,
+    "cardType": "question",
+    "text": "In Rome, there are whisperings that the Vatican has a secret room devoted to _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 633,
+    "cardType": "question",
+    "text": "Science will never explain _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 634,
+    "cardType": "question",
+    "text": "When all else fails, I can always masturbate to _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 635,
+    "cardType": "question",
+    "text": "I learned the hard way that you can't cheer up a grieving friend with _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 636,
+    "cardType": "question",
+    "text": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 637,
+    "cardType": "question",
+    "text": "An international tribunal has found _ guilty of _.",
+    "numAnswers": 2,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 638,
+    "cardType": "question",
+    "text": "The socialist governments of Scandinavia have declared that access to _ is a basic human right.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 639,
+    "cardType": "question",
+    "text": "In his new self-produced album, Kanye West raps over the sounds of _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 640,
+    "cardType": "question",
+    "text": "What's the gift that keeps on giving?",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 641,
+    "cardType": "question",
+    "text": "Next season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only _ and his wits.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 642,
+    "cardType": "question",
+    "text": "When I pooped, what came out of my butt?",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 643,
+    "cardType": "question",
+    "text": "In the distant future, historians will agree that _ marked the beginning of America's decline.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 644,
+    "cardType": "question",
+    "text": "In a pinch, _ can be a suitable substitute for _.",
+    "numAnswers": 2,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 645,
+    "cardType": "question",
+    "text": "What has been making life difficult at the nudist colony?",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 646,
+    "cardType": "question",
+    "text": "Michael Bay's new three-hour action epic pits _ against _.",
+    "numAnswers": 2,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 647,
+    "cardType": "question",
+    "text": "And I would have gotten away with it, too, if it hadn't been for _.",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 648,
+    "cardType": "question",
+    "text": "What brought the orgy to a grinding halt?",
+    "numAnswers": 1,
+    "expansion": "CAHe1"
+  },
+  {
+    "id": 649,
+    "cardType": "answer",
+    "text": "A bigger, blacker dick.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 650,
+    "cardType": "answer",
+    "text": "The mere concept of Applebee's&reg;.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 651,
+    "cardType": "answer",
+    "text": "A sad fat dragon with no friends.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 652,
+    "cardType": "answer",
+    "text": "Catastrophic urethral trauma.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 653,
+    "cardType": "answer",
+    "text": "Hillary Clinton's death stare.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 654,
+    "cardType": "answer",
+    "text": "Existing.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 655,
+    "cardType": "answer",
+    "text": "A pinata full of scorpions.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 656,
+    "cardType": "answer",
+    "text": "Mooing.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 657,
+    "cardType": "answer",
+    "text": "Swiftly achieving orgasm.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 658,
+    "cardType": "answer",
+    "text": "Daddy's belt.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 659,
+    "cardType": "answer",
+    "text": "Double penetration.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 660,
+    "cardType": "answer",
+    "text": "Weapons-grade plutonium.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 661,
+    "cardType": "answer",
+    "text": "Some really fucked-up shit.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 662,
+    "cardType": "answer",
+    "text": "Subduing a grizzly bear and making her your wife.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 663,
+    "cardType": "answer",
+    "text": "Rising from the grave.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 664,
+    "cardType": "answer",
+    "text": "The mixing of the races.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 665,
+    "cardType": "answer",
+    "text": "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 666,
+    "cardType": "answer",
+    "text": "Scrotal frostbite.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 667,
+    "cardType": "answer",
+    "text": "All of this blood.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 668,
+    "cardType": "answer",
+    "text": "Loki, the trickster god.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 669,
+    "cardType": "answer",
+    "text": "Whining like a little bitch.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 670,
+    "cardType": "answer",
+    "text": "Pumping out a baby every nine months.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 671,
+    "cardType": "answer",
+    "text": "Tongue.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 672,
+    "cardType": "answer",
+    "text": "Finding Waldo.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 673,
+    "cardType": "answer",
+    "text": "Upgrading homeless people to mobile hotspots.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 674,
+    "cardType": "answer",
+    "text": "Wearing an octopus for a hat.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 675,
+    "cardType": "answer",
+    "text": "An unhinged ferris wheel rolling toward the sea.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 676,
+    "cardType": "answer",
+    "text": "Living in a trashcan.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 677,
+    "cardType": "answer",
+    "text": "The corporations.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 678,
+    "cardType": "answer",
+    "text": "A magic hippie love cloud.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 679,
+    "cardType": "answer",
+    "text": "Fuck Mountain.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 680,
+    "cardType": "answer",
+    "text": "Survivor's guilt.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 681,
+    "cardType": "answer",
+    "text": "Me.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 682,
+    "cardType": "answer",
+    "text": "Getting hilariously gang-banged by the Blue Man Group.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 683,
+    "cardType": "answer",
+    "text": "Jeff Goldblum.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 684,
+    "cardType": "answer",
+    "text": "Making a friend.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 685,
+    "cardType": "answer",
+    "text": "A soulful rendition of &#34;Ol' Man River.&#34;",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 686,
+    "cardType": "answer",
+    "text": "Intimacy problems.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 687,
+    "cardType": "answer",
+    "text": "A sweaty, panting leather daddy.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 688,
+    "cardType": "answer",
+    "text": "Spring break!",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 689,
+    "cardType": "answer",
+    "text": "Being awesome at sex.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 690,
+    "cardType": "answer",
+    "text": "Dining with cardboard cutouts of the cast of &#34;Friends.&#34;",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 691,
+    "cardType": "answer",
+    "text": "Another shot of morphine.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 692,
+    "cardType": "answer",
+    "text": "Beefin' over turf.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 693,
+    "cardType": "answer",
+    "text": "A squadron of moles wearing aviator goggles.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 694,
+    "cardType": "answer",
+    "text": "Bullshit.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 695,
+    "cardType": "answer",
+    "text": "The Google.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 696,
+    "cardType": "answer",
+    "text": "Pretty Pretty Princess Dress-Up Board Game&#174;.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 697,
+    "cardType": "answer",
+    "text": "The new Radiohead album.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 698,
+    "cardType": "answer",
+    "text": "An army of skeletons.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 699,
+    "cardType": "answer",
+    "text": "A man in yoga pants with a ponytail and feather earrings.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 700,
+    "cardType": "answer",
+    "text": "Mild autism.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 701,
+    "cardType": "answer",
+    "text": "Nunchuck moves.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 702,
+    "cardType": "answer",
+    "text": "Whipping a disobedient slave.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 703,
+    "cardType": "answer",
+    "text": "An ether-soaked rag.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 704,
+    "cardType": "answer",
+    "text": "A sweet spaceship.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 705,
+    "cardType": "answer",
+    "text": "A 55-gallon drum of lube.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 706,
+    "cardType": "answer",
+    "text": "Special musical guest, Cher.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 707,
+    "cardType": "answer",
+    "text": "The human body.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 708,
+    "cardType": "answer",
+    "text": "Boris the Soviet Love Hammer.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 709,
+    "cardType": "answer",
+    "text": "The grey nutrient broth that sustains Mitt Romney.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 710,
+    "cardType": "answer",
+    "text": "Tiny nipples.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 711,
+    "cardType": "answer",
+    "text": "Power.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 712,
+    "cardType": "answer",
+    "text": "Oncoming traffic.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 713,
+    "cardType": "answer",
+    "text": "A dollop of sour cream.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 714,
+    "cardType": "answer",
+    "text": "A slightly shittier parallel universe.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 715,
+    "cardType": "answer",
+    "text": "My first kill.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 716,
+    "cardType": "answer",
+    "text": "Graphic violence, adult language, and some sexual content.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 717,
+    "cardType": "answer",
+    "text": "Fetal alcohol syndrome.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 718,
+    "cardType": "answer",
+    "text": "The day the birds attacked.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 719,
+    "cardType": "answer",
+    "text": "One Ring to rule them all.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 720,
+    "cardType": "answer",
+    "text": "Grandpa's ashes.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 721,
+    "cardType": "answer",
+    "text": "Basic human decency.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 722,
+    "cardType": "answer",
+    "text": "A Burmese tiger pit.",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 723,
+    "cardType": "answer",
+    "text": "Death by Steven Seagal",
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 724,
+    "cardType": "question",
+    "text": "During his midlife crisis, my dad got really into _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 725,
+    "cardType": "question",
+    "text": "_ would be woefully incomplete without _.",
+    "numAnswers": 2,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 726,
+    "cardType": "question",
+    "text": "My new favorite porn star is Joey &#34;_&#34; McGee.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 727,
+    "cardType": "question",
+    "text": "Before I run for president, I must destroy all evidence of my involvement with _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 728,
+    "cardType": "question",
+    "text": "This is your captain speaking. Fasten your seatbelts and prepare for _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 729,
+    "cardType": "question",
+    "text": "In his newest and most difficult stunt, David Blaine must escape from _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 730,
+    "cardType": "question",
+    "text": "The Five Stages of Grief: denial, anger, bargaining, _, and acceptance.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 731,
+    "cardType": "question",
+    "text": "My mom freaked out when she looked at my browser history and found _.com/_.",
+    "numAnswers": 2,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 732,
+    "cardType": "question",
+    "text": "I went from _ to _, all thanks to _.",
+    "numAnswers": 3,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 733,
+    "cardType": "question",
+    "text": "Members of New York's social elite are paying thousands of dollars just to experience _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 734,
+    "cardType": "question",
+    "text": "This month's Cosmo: &#34;Spice up your sex life by bringing _ into the bedroom.&#34;",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 735,
+    "cardType": "question",
+    "text": "Little Miss Muffet Sat on a tuffet, Eating her curds and _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 736,
+    "cardType": "question",
+    "text": "If God didn't want us to enjoy _, he wouldn't have given us _.",
+    "numAnswers": 2,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 737,
+    "cardType": "question",
+    "text": "My country, 'tis of thee, sweet land of _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 738,
+    "cardType": "question",
+    "text": "After months of debate, the Occupy Wall Street General Assembly could only agree on &#34;More _!&#34;",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 739,
+    "cardType": "question",
+    "text": "I spent my whole life working toward _, only to have it ruined by _.",
+    "numAnswers": 2,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 740,
+    "cardType": "question",
+    "text": "Next time on Dr. Phil: How to talk to your child about _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 741,
+    "cardType": "question",
+    "text": "Only two things in life are certain: death and _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 742,
+    "cardType": "question",
+    "text": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 743,
+    "cardType": "question",
+    "text": "The healing process began when I joined a support group for victims of _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 744,
+    "cardType": "question",
+    "text": "The votes are in, and the new high school mascot is _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 745,
+    "cardType": "question",
+    "text": "Charades was ruined for me forever when my mom had to act out _.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 746,
+    "cardType": "question",
+    "text": "Before _, all we had was _.",
+    "numAnswers": 2,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 747,
+    "cardType": "question",
+    "text": "Tonight on 20/20: What you don't know about _ could kill you.",
+    "numAnswers": 1,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 748,
+    "cardType": "question",
+    "text": "You haven't truly lived until you've experienced _ and _ at the same time.",
+    "numAnswers": 2,
+    "expansion": "CAHe2"
+  },
+  {
+    "id": 749,
+    "cardType": "question",
+    "text": "D&D 4.0 isn't real D&D because of the _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 750,
+    "cardType": "question",
+    "text": "It's a D&D retroclone with _ added.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 751,
+    "cardType": "question",
+    "text": "Storygames aren't RPGs because of the _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 752,
+    "cardType": "question",
+    "text": "The Slayer's Guide to _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 753,
+    "cardType": "question",
+    "text": "Worst character concept ever: _, but with _.",
+    "numAnswers": 2,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 754,
+    "cardType": "question",
+    "text": "Alightment: Chaotic _",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 755,
+    "cardType": "question",
+    "text": "It's a D&D retroclone with _ added.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 756,
+    "cardType": "question",
+    "text": "What made the paladin fall? _",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 757,
+    "cardType": "question",
+    "text": "The portal leads to the quasi-elemental plane of _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 758,
+    "cardType": "question",
+    "text": "The Temple of Elemental _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 759,
+    "cardType": "question",
+    "text": "Pathfinder is basically D&D _ Edition.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 760,
+    "cardType": "question",
+    "text": "_ : The Storytelling Game.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 761,
+    "cardType": "question",
+    "text": "People are wondering why Steve Jackson published GURPS _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 762,
+    "cardType": "question",
+    "text": "Linear Fighter, Quadratic _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 763,
+    "cardType": "question",
+    "text": "You start with 1d4 _ points.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 764,
+    "cardType": "question",
+    "text": "Back when I was 12 and I was just starting playing D&D, the game had _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 765,
+    "cardType": "question",
+    "text": "Big Eyes, Small _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 766,
+    "cardType": "question",
+    "text": "In the grim darkness of the future there is only _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 767,
+    "cardType": "question",
+    "text": "My innovative new RPG has a stat for _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 768,
+    "cardType": "question",
+    "text": "A true gamer has no problem with _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 769,
+    "cardType": "question",
+    "text": "Elminster cast a potent _ spell and then had sex with _.",
+    "numAnswers": 2,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 770,
+    "cardType": "question",
+    "text": "The Deck of Many _.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 771,
+    "cardType": "question",
+    "text": "You are all at a tavern when _ approach you.",
+    "numAnswers": 1,
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 772,
+    "cardType": "answer",
+    "text": "Dragon boobs.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 773,
+    "cardType": "answer",
+    "text": "Verisimilitude.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 774,
+    "cardType": "answer",
+    "text": "Dissociated mechanics.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 775,
+    "cardType": "answer",
+    "text": "Rape.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 776,
+    "cardType": "answer",
+    "text": "Storygames.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 777,
+    "cardType": "answer",
+    "text": "Random chargen",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 778,
+    "cardType": "answer",
+    "text": "RPG.net.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 779,
+    "cardType": "answer",
+    "text": "Dice inserted somewhere painful.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 780,
+    "cardType": "answer",
+    "text": "FATAL.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 781,
+    "cardType": "answer",
+    "text": "Ron Edwards' brain damage.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 782,
+    "cardType": "answer",
+    "text": "Boob plate armor.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 783,
+    "cardType": "answer",
+    "text": "Gamer chicks.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 784,
+    "cardType": "answer",
+    "text": "GNS theory.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 785,
+    "cardType": "answer",
+    "text": "Drizzt.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 786,
+    "cardType": "answer",
+    "text": "The entire Palladium Books&reg; Megaverse&trade;",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 787,
+    "cardType": "answer",
+    "text": "BadWrongFun.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 788,
+    "cardType": "answer",
+    "text": "Misogynerds.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 789,
+    "cardType": "answer",
+    "text": "Cultural Marxism.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 790,
+    "cardType": "answer",
+    "text": "Pissing on Gary Gygax's grave.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 791,
+    "cardType": "answer",
+    "text": "Steve Jackson's beard.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 792,
+    "cardType": "answer",
+    "text": "Natural 20.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 793,
+    "cardType": "answer",
+    "text": "Rapenards.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 794,
+    "cardType": "answer",
+    "text": "The Crisis of Treachery&trade;.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 795,
+    "cardType": "answer",
+    "text": "Game balance.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 796,
+    "cardType": "answer",
+    "text": "Fishmalks.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 797,
+    "cardType": "answer",
+    "text": "A kick to the dicebags.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 798,
+    "cardType": "answer",
+    "text": "Bearded dwarven women.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 799,
+    "cardType": "answer",
+    "text": "Owlbear's tears.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 800,
+    "cardType": "answer",
+    "text": "Magic missile.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 801,
+    "cardType": "answer",
+    "text": "THAC0.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 802,
+    "cardType": "answer",
+    "text": "Bigby's Groping Hands.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 803,
+    "cardType": "answer",
+    "text": "Drow blackface.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 804,
+    "cardType": "answer",
+    "text": "Save or die.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 805,
+    "cardType": "answer",
+    "text": "Swine.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 806,
+    "cardType": "answer",
+    "text": "The Forge.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 807,
+    "cardType": "answer",
+    "text": "Healing Surges.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 808,
+    "cardType": "answer",
+    "text": "Gelatinous Cubes.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 809,
+    "cardType": "answer",
+    "text": "Total Party Kill.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 810,
+    "cardType": "answer",
+    "text": "Quoting Monty Python.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 811,
+    "cardType": "answer",
+    "text": "Dumbed down shit for ADD WoW babies.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 812,
+    "cardType": "answer",
+    "text": "Mike Mearls.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 813,
+    "cardType": "answer",
+    "text": "Comeliness.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 814,
+    "cardType": "answer",
+    "text": "Vampire: The Masquerade.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 815,
+    "cardType": "answer",
+    "text": "Rifts&trade;.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 816,
+    "cardType": "answer",
+    "text": "The random prostitute table.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 817,
+    "cardType": "answer",
+    "text": "Dildo of Enlightenment +2",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 818,
+    "cardType": "answer",
+    "text": "Grognards Against Humanity.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 819,
+    "cardType": "answer",
+    "text": "Cthulhu.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 820,
+    "cardType": "answer",
+    "text": "The naked succubus in the Monster Manual.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 821,
+    "cardType": "answer",
+    "text": "Role-playing and roll-playing.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 822,
+    "cardType": "answer",
+    "text": "Fun Tyrant.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 823,
+    "cardType": "answer",
+    "text": "4rries.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 824,
+    "cardType": "answer",
+    "text": "Martial dailies.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 825,
+    "cardType": "answer",
+    "text": "Black Tokyo.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 826,
+    "cardType": "answer",
+    "text": "Killfuck Soulshitter.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 827,
+    "cardType": "answer",
+    "text": "Cheetoism.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 828,
+    "cardType": "answer",
+    "text": "Grimdark.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 829,
+    "cardType": "answer",
+    "text": "Kobolds.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 830,
+    "cardType": "answer",
+    "text": "Oozemaster.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 831,
+    "cardType": "answer",
+    "text": "Rocks fall, everyone dies.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 832,
+    "cardType": "answer",
+    "text": "Mark Rein&middot;Hagen.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 833,
+    "cardType": "answer",
+    "text": "Maid RPG.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 834,
+    "cardType": "answer",
+    "text": "Splugorth blind warrior women.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 835,
+    "cardType": "answer",
+    "text": "Dying during chargen.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 836,
+    "cardType": "answer",
+    "text": "Slaughtering innocent orc children.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 837,
+    "cardType": "answer",
+    "text": "Lesbian stripper ninjas.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 838,
+    "cardType": "answer",
+    "text": "Magical tea party.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 839,
+    "cardType": "answer",
+    "text": "Grinding levels.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 840,
+    "cardType": "answer",
+    "text": "Dice animism.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 841,
+    "cardType": "answer",
+    "text": "White privilege.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 842,
+    "cardType": "answer",
+    "text": "Githyanki therapy.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 843,
+    "cardType": "answer",
+    "text": "Amber Diceless Roleplaying.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 844,
+    "cardType": "answer",
+    "text": "A ratcatcher with a small but vicious dog.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 845,
+    "cardType": "answer",
+    "text": "Bribing the GM with sexual favors.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 846,
+    "cardType": "answer",
+    "text": "Eurocentric fantasy.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 847,
+    "cardType": "answer",
+    "text": "Sacred cows.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 848,
+    "cardType": "answer",
+    "text": "Gygaxian naturalism.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 849,
+    "cardType": "answer",
+    "text": "Special snowflakes.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 850,
+    "cardType": "answer",
+    "text": "Neckbeards.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 851,
+    "cardType": "answer",
+    "text": "Gazebos.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 852,
+    "cardType": "answer",
+    "text": "Lorraine Williams.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 853,
+    "cardType": "answer",
+    "text": "Nude larping.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 854,
+    "cardType": "answer",
+    "text": "Portable holes.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 855,
+    "cardType": "answer",
+    "text": "Steampunk bullshit.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 856,
+    "cardType": "answer",
+    "text": "Dump stats.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 857,
+    "cardType": "answer",
+    "text": "Ale and whores.",
+    "expansion": "CAHgrognards"
+  },
+  {
+    "id": 858,
+    "cardType": "question",
+    "text": "For the convention I cosplayed as Sailor Moon, except with _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 859,
+    "cardType": "question",
+    "text": "The worst part of Grave of the Fireflies is all the _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 860,
+    "cardType": "question",
+    "text": "In the Evangelion remake, Shinji has to deal with _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 861,
+    "cardType": "question",
+    "text": "Worst anime convention purchase ever? _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 862,
+    "cardType": "question",
+    "text": "While powering up Vegeta screamed, _!",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 863,
+    "cardType": "question",
+    "text": "You evaded my _ attack. Most impressive.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 864,
+    "cardType": "question",
+    "text": "I downloaded a doujin where _ got into _.",
+    "numAnswers": 2,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 865,
+    "cardType": "question",
+    "text": "The magical girl found out that the Power of Love is useless against _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 866,
+    "cardType": "question",
+    "text": "The Japanese government has spent billions of yen researching _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 867,
+    "cardType": "question",
+    "text": "In the dubbed version they changed _ into _.",
+    "numAnswers": 2,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 868,
+    "cardType": "question",
+    "text": "_ is Best Pony.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 869,
+    "cardType": "question",
+    "text": "The _ of Haruhi Suzumiya.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 870,
+    "cardType": "question",
+    "text": "The new thing in Akihabara is fetish cafes where you can see girls dressed up as _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 871,
+    "cardType": "question",
+    "text": "Your drill can pierce _!",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 872,
+    "cardType": "question",
+    "text": "Avatar: The Last _ bender.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 873,
+    "cardType": "question",
+    "text": "In the name of _ Sailor Moon will punish you!",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 874,
+    "cardType": "question",
+    "text": "No harem anime is complete without _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 875,
+    "cardType": "question",
+    "text": "My boyfriend's a _ now.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 876,
+    "cardType": "question",
+    "text": "The _ of _ has left me in despair!",
+    "numAnswers": 2,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 877,
+    "cardType": "question",
+    "text": "_.tumblr.com",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 878,
+    "cardType": "question",
+    "text": "Somehow they made a cute mascot girl out of _.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 879,
+    "cardType": "question",
+    "text": "Haruko hit Naoto in the head with her bass guitar and _ came out.",
+    "numAnswers": 1,
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 880,
+    "cardType": "answer",
+    "text": "Japanese schoolgirl porn.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 881,
+    "cardType": "answer",
+    "text": "Horny catgirls.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 882,
+    "cardType": "answer",
+    "text": "Japanese people.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 883,
+    "cardType": "answer",
+    "text": "Cimo.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 884,
+    "cardType": "answer",
+    "text": "ZA WARUDO!",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 885,
+    "cardType": "answer",
+    "text": "40 gigs of lolicon.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 886,
+    "cardType": "answer",
+    "text": "Goku's hair.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 887,
+    "cardType": "answer",
+    "text": "Slashfic.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 888,
+    "cardType": "answer",
+    "text": "Star Gentle Uterus",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 889,
+    "cardType": "answer",
+    "text": "Naruto headbands.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 890,
+    "cardType": "answer",
+    "text": "Homestuck troll horns.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 891,
+    "cardType": "answer",
+    "text": "Hayao Miyazaki.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 892,
+    "cardType": "answer",
+    "text": "The tsunami.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 893,
+    "cardType": "answer",
+    "text": "Death Note.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 894,
+    "cardType": "answer",
+    "text": "Small breasts.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 895,
+    "cardType": "answer",
+    "text": "Asians being racist against each other.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 896,
+    "cardType": "answer",
+    "text": "Weeaboo bullshit.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 897,
+    "cardType": "answer",
+    "text": "Tsundere.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 898,
+    "cardType": "answer",
+    "text": "Body pillows.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 899,
+    "cardType": "answer",
+    "text": "A lifelike silicone love doll.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 900,
+    "cardType": "answer",
+    "text": "Anime figures drenched in jizz.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 901,
+    "cardType": "answer",
+    "text": "Surprise sex.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 902,
+    "cardType": "answer",
+    "text": "Yaoi.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 903,
+    "cardType": "answer",
+    "text": "Girls with glasses.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 904,
+    "cardType": "answer",
+    "text": "Bronies.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 905,
+    "cardType": "answer",
+    "text": "Blue and white striped panties.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 906,
+    "cardType": "answer",
+    "text": "4chan.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 907,
+    "cardType": "answer",
+    "text": "Hello Kitty vibrator.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 908,
+    "cardType": "answer",
+    "text": "Finishing attack.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 909,
+    "cardType": "answer",
+    "text": "Keikaku* *(keikaku means plan).",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 910,
+    "cardType": "answer",
+    "text": "Hatsune Miku's screams.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 911,
+    "cardType": "answer",
+    "text": "School swimsuits.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 912,
+    "cardType": "answer",
+    "text": "Lovingly animated bouncing boobs.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 913,
+    "cardType": "answer",
+    "text": "Dragon Balls.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 914,
+    "cardType": "answer",
+    "text": "Zangief's chest hair.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 915,
+    "cardType": "answer",
+    "text": "DeviantArt.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 916,
+    "cardType": "answer",
+    "text": "Giant fucking robots.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 917,
+    "cardType": "answer",
+    "text": "Crossplay.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 918,
+    "cardType": "answer",
+    "text": "Moeblob.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 919,
+    "cardType": "answer",
+    "text": "Carl Macek's rotting corpse.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 920,
+    "cardType": "answer",
+    "text": "My waifu.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 921,
+    "cardType": "answer",
+    "text": "Voice actress Megumi Hayashibara.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 922,
+    "cardType": "answer",
+    "text": "Lynn Minmei.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 923,
+    "cardType": "answer",
+    "text": "Panty shots.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 924,
+    "cardType": "answer",
+    "text": "Love and Justice.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 925,
+    "cardType": "answer",
+    "text": "Consensual tentacle rape.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 926,
+    "cardType": "answer",
+    "text": "Gundam.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 927,
+    "cardType": "answer",
+    "text": "Captain Bright slapping Amuro.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 928,
+    "cardType": "answer",
+    "text": "The Wave Undulation Cannon.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 929,
+    "cardType": "answer",
+    "text": "Having sex in the P.E. equipment shed.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 930,
+    "cardType": "answer",
+    "text": "Tainted sushi.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 931,
+    "cardType": "answer",
+    "text": "Shitty eurobeat music.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 932,
+    "cardType": "answer",
+    "text": "Bad dubbing.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 933,
+    "cardType": "answer",
+    "text": "Fangirls.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 934,
+    "cardType": "answer",
+    "text": "Kawaii desu uguu.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 935,
+    "cardType": "answer",
+    "text": "Futanari.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 936,
+    "cardType": "answer",
+    "text": "Lesbian schoolgirls.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 937,
+    "cardType": "answer",
+    "text": "Osamu Tezuka, rolling in his grave forever.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 938,
+    "cardType": "answer",
+    "text": "FUNimation.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 939,
+    "cardType": "answer",
+    "text": "Underage cosplayers in bondage gear.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 940,
+    "cardType": "answer",
+    "text": "Jackie Chan.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 941,
+    "cardType": "answer",
+    "text": "Exchanging Pocky for sexual favors.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 942,
+    "cardType": "answer",
+    "text": "Shipping.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 943,
+    "cardType": "answer",
+    "text": "Chiyo's father.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 944,
+    "cardType": "answer",
+    "text": "Magikarp.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 945,
+    "cardType": "answer",
+    "text": "Derpy.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 946,
+    "cardType": "answer",
+    "text": "Nanoha and her special friend Fate.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 947,
+    "cardType": "answer",
+    "text": "The marbles from Ramune bottles.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 948,
+    "cardType": "answer",
+    "text": "Wideface.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 949,
+    "cardType": "answer",
+    "text": "Spoilers.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 950,
+    "cardType": "answer",
+    "text": "Man-Faye.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 951,
+    "cardType": "answer",
+    "text": "Oppai mousepads.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 952,
+    "cardType": "answer",
+    "text": "Another dimension.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 953,
+    "cardType": "answer",
+    "text": "Homura sniffing Madoka's panties.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 954,
+    "cardType": "answer",
+    "text": "Hadouken.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 955,
+    "cardType": "answer",
+    "text": "Asian ball-jointed dolls.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 956,
+    "cardType": "answer",
+    "text": "J-list.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 957,
+    "cardType": "answer",
+    "text": "Childhood friends.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 958,
+    "cardType": "answer",
+    "text": "Monkey D. Luffy's rubbery cock.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 959,
+    "cardType": "answer",
+    "text": "Cloud's giant fucking Buster Swords.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 960,
+    "cardType": "answer",
+    "text": "Taking a dump in Char's helmet.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 961,
+    "cardType": "answer",
+    "text": "Hentai marathons.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 962,
+    "cardType": "answer",
+    "text": "Gothic Lolita.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 963,
+    "cardType": "answer",
+    "text": "Onaholes.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 964,
+    "cardType": "answer",
+    "text": "Super Saiyan Level 2.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 965,
+    "cardType": "answer",
+    "text": "Gaia Online.",
+    "expansion": "CAHweeaboo"
+  },
+  {
+    "id": 966,
+    "cardType": "question",
+    "text": "After blacking out during New year's Eve, I was awoken by _.",
+    "numAnswers": 1,
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 967,
+    "cardType": "question",
+    "text": "This holiday season, Tim Allen must overcome his fear of _ to save Christmas.",
+    "numAnswers": 1,
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 968,
+    "cardType": "question",
+    "text": "Jesus is _.",
+    "numAnswers": 1,
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 969,
+    "cardType": "question",
+    "text": "Every Christmas, my uncle gets drunk and tells the story about _.",
+    "numAnswers": 1,
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 970,
+    "cardType": "question",
+    "text": "What keeps me warm during the cold, cold, winter?",
+    "numAnswers": 1,
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 971,
+    "cardType": "question",
+    "text": "On the third day of Christmas, my true love gave to me: three French hens, two turtle doves, and _.",
+    "numAnswers": 1,
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 972,
+    "cardType": "question",
+    "text": "Wake up, America. Christmas is under attack by secular liberals and their _.",
+    "numAnswers": 1,
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 973,
+    "cardType": "answer",
+    "text": "Santa's heavy sack.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 974,
+    "cardType": "answer",
+    "text": "Clearing a bloody path through Walmart with a scimitar.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 975,
+    "cardType": "answer",
+    "text": "Another shitty year.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 976,
+    "cardType": "answer",
+    "text": "Whatever Kwanzaa is supposed to be about.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 977,
+    "cardType": "answer",
+    "text": "A Christmas stocking full of coleslaw.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 978,
+    "cardType": "answer",
+    "text": "Elf cum.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 979,
+    "cardType": "answer",
+    "text": "The tiny, calloused hands of the Chinese children that made this card.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 980,
+    "cardType": "answer",
+    "text": "Taking down Santa with a surface-to-air missile.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 981,
+    "cardType": "answer",
+    "text": "Socks.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 982,
+    "cardType": "answer",
+    "text": "Pretending to be happy.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 983,
+    "cardType": "answer",
+    "text": "Krampus, the Austrian Christmas monster.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 984,
+    "cardType": "answer",
+    "text": "The Star Wars Holiday Special.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 985,
+    "cardType": "answer",
+    "text": "My hot cousin.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 986,
+    "cardType": "answer",
+    "text": "Mall Santa.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 987,
+    "cardType": "answer",
+    "text": "Several intertwining love stories featuring Hugh Grant.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 988,
+    "cardType": "answer",
+    "text": "A Hungry-Man&trade; Frozen Christmas Dinner for one.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 989,
+    "cardType": "answer",
+    "text": "Gift-wrapping a live hamster.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 990,
+    "cardType": "answer",
+    "text": "Space Jam on VHS.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 991,
+    "cardType": "answer",
+    "text": "Immaculate conception.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 992,
+    "cardType": "answer",
+    "text": "Fucking up 'Silent Night' in front of 300 parents.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 993,
+    "cardType": "answer",
+    "text": "A visually arresting turtleneck.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 994,
+    "cardType": "answer",
+    "text": "A toxic family environment.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 995,
+    "cardType": "answer",
+    "text": "Eating an entire snowman.",
+    "expansion": "CAHxmas"
+  },
+  {
+    "id": 996,
+    "cardType": "answer",
+    "text": "Bumpses.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 997,
+    "cardType": "answer",
+    "text": "A Vin Gerard H8 X 10.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 998,
+    "cardType": "question",
+    "text": "We got the third rope, now where's the fourth?",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 999,
+    "cardType": "answer",
+    "text": "Harry Acropolis.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1000,
+    "cardType": "answer",
+    "text": "Under the ring.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1001,
+    "cardType": "question",
+    "text": "Tonights main event, _ vs. _.",
+    "numAnswers": 2,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1002,
+    "cardType": "answer",
+    "text": "Afa The Wild Samoan.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1003,
+    "cardType": "question",
+    "text": "Tackle, Dropdown, _.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1004,
+    "cardType": "answer",
+    "text": "Peanut Butter and Baby sandwiches.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1005,
+    "cardType": "question",
+    "text": "Christopher Daniels is late on his _.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1006,
+    "cardType": "answer",
+    "text": "Yard Tards.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1007,
+    "cardType": "answer",
+    "text": "Two girls, one cup.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1008,
+    "cardType": "answer",
+    "text": "Ugly Mexican Hookers.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1009,
+    "cardType": "answer",
+    "text": "Duct tape.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1010,
+    "cardType": "answer",
+    "text": "Sodaj.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1011,
+    "cardType": "question",
+    "text": "Instead of booking _, they should have booked _.",
+    "numAnswers": 2,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1012,
+    "cardType": "question",
+    "text": "Genius is 10% inspiration, 90% _.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1013,
+    "cardType": "question",
+    "text": "They found _ in the dumpster behind _.",
+    "numAnswers": 2,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1014,
+    "cardType": "answer",
+    "text": "Steve The Teacher.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1015,
+    "cardType": "question",
+    "text": "The best thing I ever got for Christmas was _.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1016,
+    "cardType": "answer",
+    "text": "Jefferee.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1017,
+    "cardType": "question",
+    "text": "There's no crying in _.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1018,
+    "cardType": "question",
+    "text": "Mastodon! Pterodactyl! Triceratops! Sabretooth Tiger! _!",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1019,
+    "cardType": "answer",
+    "text": "Autoerotic Asphyxiation.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1020,
+    "cardType": "question",
+    "text": "Don't eat the _.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1021,
+    "cardType": "answer",
+    "text": "Sonic The Hedgehog.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1022,
+    "cardType": "answer",
+    "text": "Lotto Money.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1023,
+    "cardType": "question",
+    "text": "He did _ with the _!?!",
+    "numAnswers": 2,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1024,
+    "cardType": "answer",
+    "text": "Jailbait.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1025,
+    "cardType": "answer",
+    "text": "Prison rape.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1026,
+    "cardType": "question",
+    "text": "SOOOOO hot, want to touch the _.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1027,
+    "cardType": "question",
+    "text": "Stop looking at me _!",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1028,
+    "cardType": "answer",
+    "text": "Two And A Half Men.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1029,
+    "cardType": "answer",
+    "text": "Anne Frank.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1030,
+    "cardType": "answer",
+    "text": "Black Santa.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1031,
+    "cardType": "question",
+    "text": "I'm cuckoo for _ puffs.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1032,
+    "cardType": "question",
+    "text": "Silly rabbit, _ are for kids.",
+    "numAnswers": 1,
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1033,
+    "cardType": "answer",
+    "text": "Jesus Christ (our lord and saviour).",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1034,
+    "cardType": "answer",
+    "text": "Farting with your armpits.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1035,
+    "cardType": "answer",
+    "text": "Poopsicles.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1036,
+    "cardType": "answer",
+    "text": "Slaughtering innocent children.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1037,
+    "cardType": "answer",
+    "text": "Sex with vegetables.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1038,
+    "cardType": "answer",
+    "text": "My gay ex-husband.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1039,
+    "cardType": "answer",
+    "text": "Accidentally sexting your mom.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1040,
+    "cardType": "answer",
+    "text": "Tabasco in your pee-hole.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1041,
+    "cardType": "answer",
+    "text": "Pee Wee Herman.",
+    "expansion": "NEIndy"
+  },
+  {
+    "id": 1042,
+    "cardType": "answer",
+    "text": "A breath of fresh air.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1043,
+    "cardType": "answer",
+    "text": "A great big floppy donkey dick.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1044,
+    "cardType": "answer",
+    "text": "A pyramid scheme.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1045,
+    "cardType": "answer",
+    "text": "A school bus surrounded by cop cars.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1046,
+    "cardType": "answer",
+    "text": "A short walk in the desert with shovels.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1047,
+    "cardType": "answer",
+    "text": "All the boys staring at your chest.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1048,
+    "cardType": "answer",
+    "text": "An amorous stallion.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1049,
+    "cardType": "answer",
+    "text": "Being so wet it just slides out of you.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1050,
+    "cardType": "answer",
+    "text": "Being tarred and feathered.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1051,
+    "cardType": "answer",
+    "text": "Catching 'em all.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1052,
+    "cardType": "answer",
+    "text": "Chained to the bed and whipped to orgasmic bliss by a leather-clad woman.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1053,
+    "cardType": "answer",
+    "text": "Child-bearing hips.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1054,
+    "cardType": "answer",
+    "text": "Defenestration.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1055,
+    "cardType": "answer",
+    "text": "Dungeons and/or dragons.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1056,
+    "cardType": "answer",
+    "text": "Ecco the Dolphin.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1057,
+    "cardType": "answer",
+    "text": "George Washington riding on a giant eagle.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1058,
+    "cardType": "answer",
+    "text": "Getting abducted and probed by aliens.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1059,
+    "cardType": "answer",
+    "text": "Going viral on YouTube.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1060,
+    "cardType": "answer",
+    "text": "Gushing.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1061,
+    "cardType": "answer",
+    "text": "Making the baby Jesus cry.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1062,
+    "cardType": "answer",
+    "text": "More than you can chew.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1063,
+    "cardType": "answer",
+    "text": "Napalm.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1064,
+    "cardType": "answer",
+    "text": "Pancake bitches.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1065,
+    "cardType": "answer",
+    "text": "Playing God with the power of lightning.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1066,
+    "cardType": "answer",
+    "text": "Playing tonsil-hockey.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1067,
+    "cardType": "answer",
+    "text": "Racing cheese wheels downhill.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1068,
+    "cardType": "answer",
+    "text": "Riding the bomb.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1069,
+    "cardType": "answer",
+    "text": "Settling arguments with dance-offs.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1070,
+    "cardType": "answer",
+    "text": "Sheer spite.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1071,
+    "cardType": "answer",
+    "text": "Sinister laughter.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1072,
+    "cardType": "answer",
+    "text": "SS Girls.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1073,
+    "cardType": "answer",
+    "text": "Stealing your sister's underwear.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1074,
+    "cardType": "answer",
+    "text": "Stroking a cat the wrong way.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1075,
+    "cardType": "answer",
+    "text": "Sucking and blowing.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1076,
+    "cardType": "answer",
+    "text": "The bullet with your name on it.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1077,
+    "cardType": "answer",
+    "text": "The entire rest of eternity, spent in fucking Bruges.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1078,
+    "cardType": "answer",
+    "text": "The oceans rising to reclaim the land.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1079,
+    "cardType": "answer",
+    "text": "A cocained-fuelled sex orgy heart attack.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1080,
+    "cardType": "answer",
+    "text": "A cocktail umbrella ",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1081,
+    "cardType": "answer",
+    "text": "A murder/suicide pact.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1082,
+    "cardType": "answer",
+    "text": "A squirming mass of kittens.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1083,
+    "cardType": "answer",
+    "text": "An angry mob with torches and pitchforks.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1084,
+    "cardType": "answer",
+    "text": "Biting my girlfriend like a vampire during sex.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1085,
+    "cardType": "answer",
+    "text": "Dropping your pants and saluting.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1086,
+    "cardType": "answer",
+    "text": "Frankenstein's Monster",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1087,
+    "cardType": "answer",
+    "text": "Getting a blowjob in a theater.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1088,
+    "cardType": "answer",
+    "text": "Going full retard.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1089,
+    "cardType": "answer",
+    "text": "Going slob-slob-slob all over that knob.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1090,
+    "cardType": "answer",
+    "text": "Leaking implants.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1091,
+    "cardType": "answer",
+    "text": "Low-flying planes.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1092,
+    "cardType": "answer",
+    "text": "Monkies flinging their own shit.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1093,
+    "cardType": "answer",
+    "text": "My robot duplicate.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1094,
+    "cardType": "answer",
+    "text": "Other people’s children.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1095,
+    "cardType": "answer",
+    "text": "People who can't take a joke. Seriously.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1096,
+    "cardType": "answer",
+    "text": "Popping a boner during Sex Ed class.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1097,
+    "cardType": "answer",
+    "text": "Projectile vomiting.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1098,
+    "cardType": "answer",
+    "text": "Pulling down panties with your teeth.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1099,
+    "cardType": "answer",
+    "text": "Saying ",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1100,
+    "cardType": "answer",
+    "text": "Shedding skin like a snake.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1101,
+    "cardType": "answer",
+    "text": "Shooting Valley Girls for like, saying like all the time. Really.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1102,
+    "cardType": "answer",
+    "text": "Slow seductive tentacle rape.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1103,
+    "cardType": "answer",
+    "text": "Talking like a pirate, y’arr!",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1104,
+    "cardType": "answer",
+    "text": "Tenderly kissing a unicorn's horn.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1105,
+    "cardType": "answer",
+    "text": "That bastard Jesus!",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1106,
+    "cardType": "answer",
+    "text": "The last shreads of dignity.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1107,
+    "cardType": "answer",
+    "text": "The power of friendship.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1108,
+    "cardType": "answer",
+    "text": "This card intentionally left blank.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1109,
+    "cardType": "answer",
+    "text": "Throwing water on a braless woman in a white t-shirt",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1110,
+    "cardType": "answer",
+    "text": "Upskirts.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1111,
+    "cardType": "answer",
+    "text": "Wasting all your money on hookers and booze.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1112,
+    "cardType": "answer",
+    "text": "Winning.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1113,
+    "cardType": "answer",
+    "text": "A foot fetish.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1114,
+    "cardType": "answer",
+    "text": "A powerful gag reflex.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1115,
+    "cardType": "answer",
+    "text": "A tight, Asian pussy.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1116,
+    "cardType": "answer",
+    "text": "Explosive decompression.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1117,
+    "cardType": "answer",
+    "text": "Extraordinary Rendition.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1118,
+    "cardType": "answer",
+    "text": "Forgetting the safety word.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1119,
+    "cardType": "answer",
+    "text": "Greeting Christmas carollers naked.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1120,
+    "cardType": "answer",
+    "text": "Handcuffs, without the key.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1121,
+    "cardType": "answer",
+    "text": "Having a drill for a penis.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1122,
+    "cardType": "answer",
+    "text": "Hot Jailbait Ass.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1123,
+    "cardType": "answer",
+    "text": "Liposuction gone horrible wrong.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1124,
+    "cardType": "answer",
+    "text": "My harem of scantily clad women.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1125,
+    "cardType": "answer",
+    "text": "Nazi Zombie Robot Ninjas.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1126,
+    "cardType": "answer",
+    "text": "Redneck gypsies.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1127,
+    "cardType": "answer",
+    "text": "Scissoring.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1128,
+    "cardType": "answer",
+    "text": "A guy and two robots who won’t shut up.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1129,
+    "cardType": "answer",
+    "text": "A shotgun wedding.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1130,
+    "cardType": "answer",
+    "text": "Anne Frank's diary",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1131,
+    "cardType": "answer",
+    "text": "Autoerotic asphyxiation.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1132,
+    "cardType": "answer",
+    "text": "Blow Up Bianca the Latex Lovedoll.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1133,
+    "cardType": "answer",
+    "text": "Endlessly tumbling down an up escalator.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1134,
+    "cardType": "answer",
+    "text": "Fun with nuns.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1135,
+    "cardType": "answer",
+    "text": "Getting it all over the walls.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1136,
+    "cardType": "answer",
+    "text": "Holiday Dinner by Jack Daniels.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1137,
+    "cardType": "answer",
+    "text": "Nailgun fights.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1138,
+    "cardType": "answer",
+    "text": "Teaching the bitch a lesson.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1139,
+    "cardType": "answer",
+    "text": "Nazi super science.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1140,
+    "cardType": "answer",
+    "text": "Making a human centipede.",
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1141,
+    "cardType": "question",
+    "text": "Between love and madness lies _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1142,
+    "cardType": "question",
+    "text": "Instead of chess, the Grim Reaper now gambles for your soul with a game of _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1143,
+    "cardType": "question",
+    "text": "My father gave his life fighting to protect _ from _.",
+    "numAnswers": 2,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1144,
+    "cardType": "question",
+    "text": "Why is my throat sore?",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1145,
+    "cardType": "question",
+    "text": "_ sparked a city-wide riot that only ended with _.",
+    "numAnswers": 2,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1146,
+    "cardType": "question",
+    "text": "I’m very sorry Mrs. Smith, but Little Billy has tested positive for _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1147,
+    "cardType": "question",
+    "text": "Instead of beating them, Chris Brown now does _ to women.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1148,
+    "cardType": "question",
+    "text": "Instead of cutting, trendy young emo girls now engage in _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1149,
+    "cardType": "question",
+    "text": "The definition of rock bottom is gambling away _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1150,
+    "cardType": "question",
+    "text": "The Mayan prophecies really heralded the coming of _ in 2012.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1151,
+    "cardType": "question",
+    "text": "The next US election will be fought on the key issues of _ against _.",
+    "numAnswers": 2,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1152,
+    "cardType": "question",
+    "text": "When I was 10 I wrote to Santa wishing for _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1153,
+    "cardType": "question",
+    "text": "Where or How I met my last signifigant other: _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1154,
+    "cardType": "question",
+    "text": "_, Never leave home without it.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1155,
+    "cardType": "question",
+    "text": "_. This is my fetish.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1156,
+    "cardType": "question",
+    "text": "David Icke's newest conspiracy theory states that _ caused _.",
+    "numAnswers": 2,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1157,
+    "cardType": "question",
+    "text": "I did _ so you don't have to!",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1158,
+    "cardType": "question",
+    "text": "I need your clothes, your bike, and _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1159,
+    "cardType": "question",
+    "text": "In a new Cold War retro movie, the red menace tries to conquer the world through the cunning use of _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1160,
+    "cardType": "question",
+    "text": "In college, our lecturer made us write a report comparing _ to _.",
+    "numAnswers": 2,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1161,
+    "cardType": "question",
+    "text": "In The Hangover part 3, those four guys have to deal with _, _, and _.",
+    "numAnswers": 3,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1162,
+    "cardType": "question",
+    "text": "My zombie survival kit includes food, water, and _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1163,
+    "cardType": "question",
+    "text": "The way to a man's heart is through _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1164,
+    "cardType": "question",
+    "text": "What was the theme of my second wedding?",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1165,
+    "cardType": "question",
+    "text": "What's the newest Japanese craze to head West?",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1166,
+    "cardType": "question",
+    "text": "Everybody loves _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1167,
+    "cardType": "question",
+    "text": "I can only express myself through _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1168,
+    "cardType": "question",
+    "text": "My new porn DVD was completely ruined by the inclusion of _",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1169,
+    "cardType": "question",
+    "text": "My three wishes will be for _, _, and _.",
+    "numAnswers": 3,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1170,
+    "cardType": "question",
+    "text": "The latest horrifying school shooting was inspired by _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1171,
+    "cardType": "question",
+    "text": "I got fired because of my not-so-secret obsession over _.",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1172,
+    "cardType": "question",
+    "text": "My new favourite sexual position is _",
+    "numAnswers": 1,
+    "expansion": "NSFH"
+  },
+  {
+    "id": 1173,
+    "cardType": "answer",
+    "text": "The primal, ball-slapping sex your parents are having right now.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1174,
+    "cardType": "answer",
+    "text": "A cat video so cute that your eyes roll back and your spine slides out of your anus.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1175,
+    "cardType": "answer",
+    "text": "Cock.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1176,
+    "cardType": "answer",
+    "text": "A cop who is also a dog.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1177,
+    "cardType": "answer",
+    "text": "Dying alone and in pain.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1178,
+    "cardType": "answer",
+    "text": "Gay aliens.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1179,
+    "cardType": "answer",
+    "text": "The way white people is.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1180,
+    "cardType": "answer",
+    "text": "Reverse cowgirl.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1181,
+    "cardType": "answer",
+    "text": "The Quesadilla Explosion Salad&trade; from Chili's&copy;.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1182,
+    "cardType": "answer",
+    "text": "Actually getting shot, for real.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1183,
+    "cardType": "answer",
+    "text": "Not having sex.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1184,
+    "cardType": "answer",
+    "text": "Vietnam flashbacks.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1185,
+    "cardType": "answer",
+    "text": "Running naked through a mall, pissing and shitting everywhere.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1186,
+    "cardType": "answer",
+    "text": "Nothing.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1187,
+    "cardType": "answer",
+    "text": "Warm, velvety muppet sex.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1188,
+    "cardType": "answer",
+    "text": "Self-flagellation.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1189,
+    "cardType": "answer",
+    "text": "The systematic destruction of an entire people and their way of life.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1190,
+    "cardType": "answer",
+    "text": "Samuel L. Jackson.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1191,
+    "cardType": "answer",
+    "text": "A boo-boo.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1192,
+    "cardType": "answer",
+    "text": "Going around punching people.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1193,
+    "cardType": "answer",
+    "text": "The entire Internet.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1194,
+    "cardType": "answer",
+    "text": "Some kind of bird-man.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1195,
+    "cardType": "answer",
+    "text": "Chugging a lava lamp.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1196,
+    "cardType": "answer",
+    "text": "Having sex on top of a pizza.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1197,
+    "cardType": "answer",
+    "text": "Indescribable loneliness.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1198,
+    "cardType": "answer",
+    "text": "An ass disaster.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1199,
+    "cardType": "answer",
+    "text": "Shutting the fuck up.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1200,
+    "cardType": "answer",
+    "text": "All my friends dying.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1201,
+    "cardType": "answer",
+    "text": "Putting an entire peanut butter and jelly sandwich into the VCR.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1202,
+    "cardType": "answer",
+    "text": "Spending lots of money.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1203,
+    "cardType": "answer",
+    "text": "Some douche with an acoustic guitar.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1204,
+    "cardType": "answer",
+    "text": "Flying robots that kill people.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1205,
+    "cardType": "answer",
+    "text": "A greased-up Matthew McConaughey.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1206,
+    "cardType": "answer",
+    "text": "An unstoppable wave of fire ants.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1207,
+    "cardType": "answer",
+    "text": "Not contributing to society in any meaningful way.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1208,
+    "cardType": "answer",
+    "text": "An all-midget production of Shakespeare's Richard III.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1209,
+    "cardType": "answer",
+    "text": "Screaming like a maniac.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1210,
+    "cardType": "answer",
+    "text": "The moist, demanding chasm of his mouth.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1211,
+    "cardType": "answer",
+    "text": "Filling every orifice with butterscotch pudding.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1212,
+    "cardType": "answer",
+    "text": "Unlimited soup, salad, and breadsticks.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1213,
+    "cardType": "answer",
+    "text": "Crying into the pages of Sylvia Plath.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1214,
+    "cardType": "answer",
+    "text": "Velcro&trade;.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1215,
+    "cardType": "answer",
+    "text": "A PowerPoint presentation.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1216,
+    "cardType": "answer",
+    "text": "A surprising amount of hair.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1217,
+    "cardType": "answer",
+    "text": "Eating Tom Selleck's mustache to gain his powers.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1218,
+    "cardType": "answer",
+    "text": "Roland the Farter, flatulist to the king.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1219,
+    "cardType": "answer",
+    "text": "That ass.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1220,
+    "cardType": "answer",
+    "text": "A pile of squirming bodies.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1221,
+    "cardType": "answer",
+    "text": "Buying the right pants to be cool.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1222,
+    "cardType": "answer",
+    "text": "Blood farts.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1223,
+    "cardType": "answer",
+    "text": "Three months in the hole.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1224,
+    "cardType": "answer",
+    "text": "A botched circumcision.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1225,
+    "cardType": "answer",
+    "text": "The Land of Chocolate.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1226,
+    "cardType": "answer",
+    "text": "Slapping a racist old lady.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1227,
+    "cardType": "answer",
+    "text": "A lamprey swimming up the toilet and latching onto your taint.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1228,
+    "cardType": "answer",
+    "text": "Jumping out at people.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1229,
+    "cardType": "answer",
+    "text": "A black male in his early 20s, last seen wearing a hoodie.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1230,
+    "cardType": "answer",
+    "text": "Mufasa's death scene.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1231,
+    "cardType": "answer",
+    "text": "Bill Clinton, naked on a bearskin rug with a saxophone.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1232,
+    "cardType": "answer",
+    "text": "Demonic possession.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1233,
+    "cardType": "answer",
+    "text": "The Harlem Globetrotters.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1234,
+    "cardType": "answer",
+    "text": "Vomiting mid-blowjob.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1235,
+    "cardType": "answer",
+    "text": "My manservant, Claude.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1236,
+    "cardType": "answer",
+    "text": "Having shotguns for legs.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1237,
+    "cardType": "answer",
+    "text": "Letting everyone down.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1238,
+    "cardType": "answer",
+    "text": "A spontaneous conga line.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1239,
+    "cardType": "answer",
+    "text": "A vagina that leads to another dimension.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1240,
+    "cardType": "answer",
+    "text": "Disco fever.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1241,
+    "cardType": "answer",
+    "text": "Getting your dick stuck in a Chinese finger trap with another dick.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1242,
+    "cardType": "answer",
+    "text": "Fisting.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1243,
+    "cardType": "answer",
+    "text": "The thin veneer of situational causality that underlies porn.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1244,
+    "cardType": "answer",
+    "text": "Girls that always be textin'.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1245,
+    "cardType": "answer",
+    "text": "Blowing some dudes in an alley.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1246,
+    "cardType": "answer",
+    "text": "Drinking ten 5-hour ENERGYs&reg; to get fifty continuous hours of energy.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1247,
+    "cardType": "answer",
+    "text": "Sneezing, farting, and coming at the same time.",
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1248,
+    "cardType": "question",
+    "text": "A successful job interview begins with a firm handshake and ends with _.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1249,
+    "cardType": "question",
+    "text": "Lovin' you is easy 'cause you're _.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1250,
+    "cardType": "question",
+    "text": "My life is ruled by a vicious cycle of _ and _.",
+    "numAnswers": 2,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1251,
+    "cardType": "question",
+    "text": "The blind date was going horribly until we discovered our shared interest in _.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1252,
+    "cardType": "question",
+    "text": "_. Awesome in theory, kind of a mess in practice.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1253,
+    "cardType": "question",
+    "text": "I'm not like the rest of you. I'm too rich and busy for _.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1254,
+    "cardType": "question",
+    "text": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1255,
+    "cardType": "question",
+    "text": "_: Hours of fun. Easy to use. Perfect for _!",
+    "numAnswers": 2,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1256,
+    "cardType": "question",
+    "text": "What left this stain on my couch?",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1257,
+    "cardType": "question",
+    "text": "Call the law offices of Goldstein & Goldstein, because no one should have to tolerate _ in the workplace.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1258,
+    "cardType": "question",
+    "text": "When you get right down to it, _ is just _.",
+    "numAnswers": 2,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1259,
+    "cardType": "question",
+    "text": "Turns out that _-Man was neither the hero we needed nor wanted.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1260,
+    "cardType": "question",
+    "text": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for _.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1261,
+    "cardType": "question",
+    "text": "Money can't buy me love, but it can buy me _.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1262,
+    "cardType": "question",
+    "text": "With enough time and pressure, _ will turn into _.",
+    "numAnswers": 2,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1263,
+    "cardType": "question",
+    "text": "And what did you bring for show and tell?",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1264,
+    "cardType": "question",
+    "text": "During high school, I never really fit in until I found _ club.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1265,
+    "cardType": "question",
+    "text": "Hey, baby, come back to my place and I'll show you _.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1266,
+    "cardType": "question",
+    "text": "After months of practice with _, I think I'm finally ready for _.",
+    "numAnswers": 2,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1267,
+    "cardType": "question",
+    "text": "To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of _.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1268,
+    "cardType": "question",
+    "text": "Finally! A service that delivers _ right to your door.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1269,
+    "cardType": "question",
+    "text": "My gym teacher got fired for adding _ to the obstacle course.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1270,
+    "cardType": "question",
+    "text": "Having problems with _? Try _!",
+    "numAnswers": 2,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1271,
+    "cardType": "question",
+    "text": "As part of his contract, Prince won't perform without _ in his dressing room.",
+    "numAnswers": 1,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1272,
+    "cardType": "question",
+    "text": "Listen, son. If you want to get involved with _, I won't stop you. Just steer clear of _.",
+    "numAnswers": 2,
+    "expansion": "CAHe3"
+  },
+  {
+    "id": 1273,
+    "cardType": "answer",
+    "text": "A freshly-filled diaper",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1274,
+    "cardType": "answer",
+    "text": "Glue",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1275,
+    "cardType": "answer",
+    "text": "An unusually-attractive transvestite",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1276,
+    "cardType": "answer",
+    "text": "Hand-me-down adult diapers",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1277,
+    "cardType": "answer",
+    "text": "A stillborn fetus",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1278,
+    "cardType": "answer",
+    "text": "A disgraced pelican",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1279,
+    "cardType": "answer",
+    "text": "Three buckets of urine, free for 2 nights, with no late fee",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1280,
+    "cardType": "answer",
+    "text": "My testicles",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1281,
+    "cardType": "answer",
+    "text": "A black woman's vagina",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1282,
+    "cardType": "answer",
+    "text": "My asshole",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1283,
+    "cardType": "answer",
+    "text": "A whale's blowhole",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1284,
+    "cardType": "answer",
+    "text": "2 Girls 1 Cup",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1285,
+    "cardType": "answer",
+    "text": "The Big Bang Theory (TV)",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1286,
+    "cardType": "answer",
+    "text": "Teen pregnancy",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1287,
+    "cardType": "answer",
+    "text": "Ass hair",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1288,
+    "cardType": "answer",
+    "text": "Vaginal warts",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1289,
+    "cardType": "answer",
+    "text": "Ellen Degeneres",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1290,
+    "cardType": "answer",
+    "text": "Jews Against Humanity",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1291,
+    "cardType": "answer",
+    "text": "Indy wrestling",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1292,
+    "cardType": "answer",
+    "text": "Cunt",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1293,
+    "cardType": "answer",
+    "text": "Beating a crowd of delightful parents to death with a steel dildo",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1294,
+    "cardType": "answer",
+    "text": "Beating a crowd of delightful parents to death with a steel dildo while dressed as Ru Paul's brother, Ron.",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1295,
+    "cardType": "answer",
+    "text": "A roll in the hay",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1296,
+    "cardType": "answer",
+    "text": "\"Get 'em, Steve-Dave!\"",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1297,
+    "cardType": "answer",
+    "text": "God Hates You",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1298,
+    "cardType": "answer",
+    "text": "Manboobs.",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1299,
+    "cardType": "answer",
+    "text": "Daniel Benoit",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1300,
+    "cardType": "answer",
+    "text": "Vomiting in the shower",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1301,
+    "cardType": "question",
+    "text": "I just met you and this is crazy, but here's _, so _ maybe",
+    "numAnswers": 2,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1302,
+    "cardType": "question",
+    "text": "It's only _ if you get caught!",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1303,
+    "cardType": "question",
+    "text": "_: The Next Generation",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1304,
+    "cardType": "question",
+    "text": "Terminator 4: _",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1305,
+    "cardType": "question",
+    "text": "Disney presents _ on ice!",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1306,
+    "cardType": "question",
+    "text": "_. The other white meat.",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1307,
+    "cardType": "question",
+    "text": "A _ a day keeps the _ away.",
+    "numAnswers": 2,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1308,
+    "cardType": "answer",
+    "text": "An intellectually superior overlord",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1309,
+    "cardType": "question",
+    "text": "I'm sweating like a _ at a _.",
+    "numAnswers": 2,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1310,
+    "cardType": "question",
+    "text": "I love the smell of _ in the morning.",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1311,
+    "cardType": "question",
+    "text": "You're not gonna believe this, but _.",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1312,
+    "cardType": "answer",
+    "text": "Dwight Schrute",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1313,
+    "cardType": "answer",
+    "text": "Casey Anthony",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1314,
+    "cardType": "answer",
+    "text": "Clubbin seals",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1315,
+    "cardType": "answer",
+    "text": "Stunt cock",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1316,
+    "cardType": "question",
+    "text": "_. All the cool kids are doing it.",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1317,
+    "cardType": "answer",
+    "text": "Anal lice",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1318,
+    "cardType": "question",
+    "text": "So I was _ in my cubicle at work, and suddenly _!",
+    "numAnswers": 2,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1319,
+    "cardType": "answer",
+    "text": "Lightsaber Dildos",
+    "expansion": "Image1"
+  },
+  {
+    "id": 1320,
+    "cardType": "question",
+    "text": "Baskin Robbins just added a 32nd flavor: _!",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1321,
+    "cardType": "question",
+    "text": "I can drive and ____ at the same time.",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  },
+  {
+    "id": 1322,
+    "cardType": "question",
+    "text": "_ ain't nothin' to fuck wit'!",
+    "numAnswers": 1,
+    "expansion": "Image1"
+  }
+]

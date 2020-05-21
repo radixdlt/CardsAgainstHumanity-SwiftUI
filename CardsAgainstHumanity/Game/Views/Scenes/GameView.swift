@@ -18,12 +18,12 @@ struct GameView: View {
 extension GameView {
     var body: some View {
         GeometryReader { geometry in
-        NavigationView {
-                self.masterView
-                    .frame(width: geometry.size.width * 0.2)
+            NavigationView {
+                self.playersView
+                    .frame(width: geometry.size.width * 0.2, height: geometry.size.height)
                 
-                self.detailView
-                    .frame(width: geometry.size.width * 0.8)
+                self.cardsView
+                    .frame(width: geometry.size.width * 0.8, height: geometry.size.height)
             }
         }
         .onAppear {
@@ -34,29 +34,25 @@ extension GameView {
 }
 
 private extension GameView {
-    var masterView: some View {
-        
-        List(self.viewModel.players) {
-            PlayerView(player: $0)
-        }
-    }
-    
-    var detailView: some View {
+
+    var playersView: some View {
         VStack {
             HStack {
                 Text("Game id: ")
                 Text("\(self.viewModel.game.id.description)")
             }
-            cardsView
+            
+            List(self.viewModel.game.allPlayers) {
+                PlayerView(player: $0)
+            }
         }
     }
     
     var cardsView: some View {
-        List(self.viewModel.cards) {
-            CardView(card: $0)
-        }
+        CardsView(cards: self.$viewModel.game.cards)
     }
 }
+
 
 // MARK: ViewModel
 final class GameViewModel: ObservableObject {
@@ -69,17 +65,9 @@ final class GameViewModel: ObservableObject {
 
 extension GameViewModel {
     
-    var players: [Player] {
-        game.allPlayers
-    }
-    
-    var cards: [Card] {
-        game.cards
-    }
-    
     func fetchPlayers() {
         print("Fetching other players")
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) { [unowned self] in
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(1)) { [unowned self] in
             print("Got players")
             self.game.otherPlayers = self.mockPlayers()
         }
@@ -89,7 +77,7 @@ extension GameViewModel {
         print("Fetching cards")
         DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
             print("Got cards")
-            self.game.cards = self.mockCards()
+            self.game.cards = self.mockCards().map(CardModel.init)
         }
     }
 }
@@ -100,21 +88,37 @@ private extension GameViewModel {
     }
     
     func mockCards() -> [Card] {
-        var id: UInt = 1
-        func answer(_ text: String, isUsed: Bool = false) -> Card {
-            .init(text, type: .answer, isUsed: isUsed, id: id++)
+        guard let path = Bundle.main.path(forResource: "cards", ofType: "json") else { fatalError("Failed to find cards.json file") }
+        do {
+            let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
+//            let jsonResult = try JSONSerialization.jsonObject(with: data, options: .mutableLeaves)
+//            if let jsonResult = jsonResult as? Dictionary<String, AnyObject>, let person = jsonResult["person"] as? [Any] {
+//                // do stuff
+//            }
+            let cards = try JSONDecoder().decode([Card].self, from: data)
+            return .init(cards.filter({ $0.isAnswer }).prefix(50))
+        } catch {
+            fatalError("Failed to parse cards json, error: \(error)")
         }
-        
-        return [
-            answer("Saving up my boogers for ten years and then building the world's largest booger."),
-            answer("Republicans."),
-            answer("Not believing in giraffes.", isUsed: true),
-            answer("Getting stuck in the toilet."),
-            answer("Big Italian women making the spicy sauce."),
-            answer("Mormon feminists.")
-        ]
     }
+
+//    func mockCards() -> [Card] {
+//        var id: UInt = 1
+//        func answer(_ text: String, isUsed: Bool = false) -> Card {
+//            .init(text, type: .answer, isUsed: isUsed, id: id++)
+//        }
+//
+//        return [
+//            answer("Saving up my boogers for ten years and then building the world's largest booger."),
+//            answer("Republicans."),
+//            answer("Not believing in giraffes.", isUsed: true),
+//            answer("Getting stuck in the toilet."),
+//            answer("Big Italian women making the spicy sauce."),
+//            answer("Mormon feminists.")
+//        ]
+//    }
 }
+
 
 postfix func ++ <I>(int: inout I) -> I where I: FixedWidthInteger {
     let beforeUpdate = int

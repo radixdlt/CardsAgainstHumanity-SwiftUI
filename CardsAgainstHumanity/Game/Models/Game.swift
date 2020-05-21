@@ -14,7 +14,7 @@ struct Game {
     let id: ID
     let me: Player
     var otherPlayers: [Player] = .init()
-    var cards: [Card] = .init()
+    var cards: [CardModel] = .init()
 }
 
 extension Game {

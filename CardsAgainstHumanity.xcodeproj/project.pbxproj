@@ -3,10 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E6117E4E2477349900A4D35B /* cards.json in Resources */ = {isa = PBXBuildFile; fileRef = E6117E4D2477349900A4D35B /* cards.json */; };
 		E69410A22476D14B009F3665 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69410A12476D14B009F3665 /* AppState.swift */; };
 		E6C99F602476EAFE008EA101 /* Optional_Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F5F2476EAFE008EA101 /* Optional_Extensions.swift */; };
 		E6C99F782476F5EB008EA101 /* PreferencesKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F632476F5EB008EA101 /* PreferencesKey.swift */; };
@@ -27,6 +28,8 @@
 		E6C99F8F247710C0008EA101 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F8E247710C0008EA101 /* Card.swift */; };
 		E6C99F93247710FD008EA101 /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F92247710FD008EA101 /* PlayerView.swift */; };
 		E6C99F95247712E5008EA101 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F94247712E5008EA101 /* CardView.swift */; };
+		E6C99F9B24771B0B008EA101 /* CardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F9A24771B0B008EA101 /* CardsView.swift */; };
+		E6C99F9E24772236008EA101 /* QGrid in Frameworks */ = {isa = PBXBuildFile; productRef = E6C99F9D24772236008EA101 /* QGrid */; };
 		E6CC8AED24768E2700D21278 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6CC8AEC24768E2700D21278 /* AppDelegate.swift */; };
 		E6CC8AEF24768E2700D21278 /* CreateGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6CC8AEE24768E2700D21278 /* CreateGameView.swift */; };
 		E6CC8AF124768E2800D21278 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6CC8AF024768E2800D21278 /* Assets.xcassets */; };
@@ -39,6 +42,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E6117E4D2477349900A4D35B /* cards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cards.json; sourceTree = "<group>"; };
 		E69410A12476D14B009F3665 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
 		E6C99F5F2476EAFE008EA101 /* Optional_Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Optional_Extensions.swift; sourceTree = "<group>"; };
 		E6C99F632476F5EB008EA101 /* PreferencesKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferencesKey.swift; sourceTree = "<group>"; };
@@ -59,6 +63,7 @@
 		E6C99F8E247710C0008EA101 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		E6C99F92247710FD008EA101 /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
 		E6C99F94247712E5008EA101 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		E6C99F9A24771B0B008EA101 /* CardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsView.swift; sourceTree = "<group>"; };
 		E6CC8AE924768E2600D21278 /* CardsAgainstHumanity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardsAgainstHumanity.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6CC8AEC24768E2700D21278 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E6CC8AEE24768E2700D21278 /* CreateGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateGameView.swift; sourceTree = "<group>"; };
@@ -78,12 +83,21 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6C99F9E24772236008EA101 /* QGrid in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E6117E4C2477349900A4D35B /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				E6117E4D2477349900A4D35B /* cards.json */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		E6C99F5E2476EAEA008EA101 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
@@ -146,13 +160,21 @@
 			path = Scenes;
 			sourceTree = "<group>";
 		};
-		E6C99F91247710EF008EA101 /* Subviews */ = {
+		E6C99F91247710EF008EA101 /* ComponentViews */ = {
 			isa = PBXGroup;
 			children = (
 				E6C99F92247710FD008EA101 /* PlayerView.swift */,
 				E6C99F94247712E5008EA101 /* CardView.swift */,
 			);
-			path = Subviews;
+			path = ComponentViews;
+			sourceTree = "<group>";
+		};
+		E6C99F9924771B01008EA101 /* SubViews */ = {
+			isa = PBXGroup;
+			children = (
+				E6C99F9A24771B0B008EA101 /* CardsView.swift */,
+			);
+			path = SubViews;
 			sourceTree = "<group>";
 		};
 		E6CC8AE024768E2600D21278 = {
@@ -174,6 +196,7 @@
 		E6CC8AEB24768E2600D21278 /* CardsAgainstHumanity */ = {
 			isa = PBXGroup;
 			children = (
+				E6117E4C2477349900A4D35B /* Assets */,
 				E6C99F8B2476F8C0008EA101 /* ViewModifiers */,
 				E6C99F612476F5EB008EA101 /* DataStore */,
 				E6C99F5E2476EAEA008EA101 /* Extensions */,
@@ -208,7 +231,8 @@
 		E6FEB6772476BCC200D3F17D /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				E6C99F91247710EF008EA101 /* Subviews */,
+				E6C99F9924771B01008EA101 /* SubViews */,
+				E6C99F91247710EF008EA101 /* ComponentViews */,
 				E6C99F90247710E9008EA101 /* Scenes */,
 			);
 			path = Views;
@@ -242,6 +266,9 @@
 			dependencies = (
 			);
 			name = CardsAgainstHumanity;
+			packageProductDependencies = (
+				E6C99F9D24772236008EA101 /* QGrid */,
+			);
 			productName = CardsAgainstHumanity;
 			productReference = E6CC8AE924768E2600D21278 /* CardsAgainstHumanity.app */;
 			productType = "com.apple.product-type.application";
@@ -270,6 +297,9 @@
 				Base,
 			);
 			mainGroup = E6CC8AE024768E2600D21278;
+			packageReferences = (
+				E6C99F9C24772236008EA101 /* XCRemoteSwiftPackageReference "QGrid" */,
+			);
 			productRefGroup = E6CC8AEA24768E2600D21278 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -287,6 +317,7 @@
 				E6CC8AF724768E2800D21278 /* Main.storyboard in Resources */,
 				E6CC8AF424768E2800D21278 /* Preview Assets.xcassets in Resources */,
 				E6CC8AF124768E2800D21278 /* Assets.xcassets in Resources */,
+				E6117E4E2477349900A4D35B /* cards.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +331,7 @@
 				E6C99F832476F5EB008EA101 /* KeyValueStoring+ValueRetrieval.swift in Sources */,
 				E6C99F8D2476F8EC008EA101 /* View+Enabled.swift in Sources */,
 				E6CC8AEF24768E2700D21278 /* CreateGameView.swift in Sources */,
+				E6C99F9B24771B0B008EA101 /* CardsView.swift in Sources */,
 				E6C99F862476F5EB008EA101 /* KeyValueStoring.swift in Sources */,
 				E6C99F602476EAFE008EA101 /* Optional_Extensions.swift in Sources */,
 				E6C99F822476F5EB008EA101 /* KeyConvertible.swift in Sources */,
@@ -517,6 +549,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E6C99F9C24772236008EA101 /* XCRemoteSwiftPackageReference "QGrid" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Q-Mobile/QGrid";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.4;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E6C99F9D24772236008EA101 /* QGrid */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E6C99F9C24772236008EA101 /* XCRemoteSwiftPackageReference "QGrid" */;
+			productName = QGrid;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E6CC8AE124768E2600D21278 /* Project object */;
 }

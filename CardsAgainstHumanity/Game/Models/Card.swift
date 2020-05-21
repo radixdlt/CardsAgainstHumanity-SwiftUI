@@ -8,20 +8,26 @@
 
 import Foundation
 
-struct Card: Equatable, Decodable, Identifiable {
+final class CardModel: ObservableObject, Identifiable {
+    let card: Card
+    @Published var isUsed: Bool = false
+    
+    init(card: Card) {
+        self.card = card
+    }
+}
+
+struct Card: Equatable, Decodable {
 
     let cardType: CardType
     let id: UInt
     let text: String
-    var isUsed: Bool
     
-    init(_ text: String, type: CardType, isUsed: Bool = false, id: UInt) {
+    init(_ text: String, type: CardType, id: UInt) {
         self.text = text
         self.cardType = type
-        self.isUsed = isUsed
         self.id = id
     }
-    
     
 }
 
@@ -39,5 +45,6 @@ extension Card.CardType {
     var isAnswer: Bool {
         self == .answer
     }
+    
 }
 
