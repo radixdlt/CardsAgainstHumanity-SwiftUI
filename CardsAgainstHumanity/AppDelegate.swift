@@ -37,27 +37,14 @@ struct RootScreen {
 extension RootScreen: View {
     
     var body: some View {
-        rootView
-//            .accentColor(.defaultAccentColor)
-//            .foregroundColor(.defaultForegroundColor)
-    }
-}
-
-// MARK: Private
-private extension RootScreen {
-    var rootView: some View {
         Group<AnyView> {
             if appState.rootContent == .joinOrCreateGame {
                 return CreateGameView().eraseToAny()
             } else if appState.rootContent == .playGame {
                 return GameView(
                     viewModel: GameViewModel(game: appState.update().appShould.createGame())
-//                    viewModel: GameViewModel(
-//                        gameId: appState.update().appShould.provideGameId(),
-//                        player: Player(id: <#T##Player.ID#>, isCzar: <#T##Bool#>)
-//                    )
                 )
-                .eraseToAny()
+                    .eraseToAny()
             } else {
                 return Text("⚠️ Unhandled rootContent state").font(.headline).eraseToAny()
             }
@@ -81,10 +68,11 @@ class AppDelegate: NSObject, NSApplicationDelegate {
          let rootScreen =  RootScreen()
                 .environmentObject(preferences)
                 .environmentObject(appState)
-
+                .frame(maxHeight: .infinity)
+        
         // Create the window and set the content view. 
         window = NSWindow(
-            contentRect: NSRect(x: 0, y: 0, width: 1024, height: 1024),
+            contentRect: NSRect(x: 0, y: 0, width: 1024, height: 2048),
             styleMask: [.titled, .closable, .miniaturizable, .resizable, .fullSizeContentView],
             backing: .buffered, defer: false)
         window.center()

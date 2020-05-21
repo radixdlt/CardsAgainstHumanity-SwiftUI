@@ -26,6 +26,7 @@
 		E6C99F8D2476F8EC008EA101 /* View+Enabled.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F8C2476F8EC008EA101 /* View+Enabled.swift */; };
 		E6C99F8F247710C0008EA101 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F8E247710C0008EA101 /* Card.swift */; };
 		E6C99F93247710FD008EA101 /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F92247710FD008EA101 /* PlayerView.swift */; };
+		E6C99F95247712E5008EA101 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F94247712E5008EA101 /* CardView.swift */; };
 		E6CC8AED24768E2700D21278 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6CC8AEC24768E2700D21278 /* AppDelegate.swift */; };
 		E6CC8AEF24768E2700D21278 /* CreateGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6CC8AEE24768E2700D21278 /* CreateGameView.swift */; };
 		E6CC8AF124768E2800D21278 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6CC8AF024768E2800D21278 /* Assets.xcassets */; };
@@ -57,6 +58,7 @@
 		E6C99F8C2476F8EC008EA101 /* View+Enabled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Enabled.swift"; sourceTree = "<group>"; };
 		E6C99F8E247710C0008EA101 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		E6C99F92247710FD008EA101 /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
+		E6C99F94247712E5008EA101 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		E6CC8AE924768E2600D21278 /* CardsAgainstHumanity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardsAgainstHumanity.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6CC8AEC24768E2700D21278 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E6CC8AEE24768E2700D21278 /* CreateGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateGameView.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 			isa = PBXGroup;
 			children = (
 				E6C99F92247710FD008EA101 /* PlayerView.swift */,
+				E6C99F94247712E5008EA101 /* CardView.swift */,
 			);
 			path = Subviews;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 				E6C99F852476F5EB008EA101 /* AnyKeyValueStoring.swift in Sources */,
 				E6C99F782476F5EB008EA101 /* PreferencesKey.swift in Sources */,
 				E6CC8AED24768E2700D21278 /* AppDelegate.swift in Sources */,
+				E6C99F95247712E5008EA101 /* CardView.swift in Sources */,
 				E6C99F882476F5EB008EA101 /* KeyValueStoring+Codable.swift in Sources */,
 				E6FEB67C2476BCF700D3F17D /* Game.swift in Sources */,
 				E6FEB6802476BD2000D3F17D /* Identifier.swift in Sources */,

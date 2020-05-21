@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct Identifier<Entity>: Hashable, CustomStringConvertible, ExpressibleByStringLiteral {
+struct Identifier<Entity>: Hashable, CustomStringConvertible, ExpressibleByStringLiteral, Decodable {
     let identifier: String
     init?(identifier: String) {
         guard identifier.count >= lengthIdentifierString else {

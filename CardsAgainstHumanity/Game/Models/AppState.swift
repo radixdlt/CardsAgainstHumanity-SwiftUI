@@ -10,7 +10,6 @@ import Foundation
 import Combine
 
 final class AppState: ObservableObject {
-//    @Published var game: Game?
     
     @Published private(set) var rootContent: RootContent = .joinOrCreateGame
     
@@ -142,11 +141,4 @@ extension AppState.Update.AppShould {
         }
         return Game.init(id: gameId, me: .me(isCzar: iAmCzar))
     }
-    
-//    func provideGameId() -> Game.ID {
-//                guard let gameId = preferences.gameId else {
-//                    fatalError("Should have have id")
-//                }
-//        return gameId
-//    }
 }

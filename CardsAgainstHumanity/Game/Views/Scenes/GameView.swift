@@ -17,12 +17,18 @@ struct GameView: View {
 
 extension GameView {
     var body: some View {
+        GeometryReader { geometry in
         NavigationView {
-            masterView
-            detailView
+                self.masterView
+                    .frame(width: geometry.size.width * 0.2)
+                
+                self.detailView
+                    .frame(width: geometry.size.width * 0.8)
+            }
         }
         .onAppear {
             self.viewModel.fetchPlayers()
+            self.viewModel.fetchCards()
         }
     }
 }
@@ -30,10 +36,9 @@ extension GameView {
 private extension GameView {
     var masterView: some View {
         
-        List(self.viewModel.game.allPlayers) {
+        List(self.viewModel.players) {
             PlayerView(player: $0)
         }
-        .frame(idealWidth: 200, maxWidth: 300)
     }
     
     var detailView: some View {
@@ -42,8 +47,14 @@ private extension GameView {
                 Text("Game id: ")
                 Text("\(self.viewModel.game.id.description)")
             }
+            cardsView
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
+    }
+    
+    var cardsView: some View {
+        List(self.viewModel.cards) {
+            CardView(card: $0)
+        }
     }
 }
 
@@ -57,6 +68,15 @@ final class GameViewModel: ObservableObject {
 }
 
 extension GameViewModel {
+    
+    var players: [Player] {
+        game.allPlayers
+    }
+    
+    var cards: [Card] {
+        game.cards
+    }
+    
     func fetchPlayers() {
         print("Fetching other players")
         DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) { [unowned self] in
@@ -81,17 +101,17 @@ private extension GameViewModel {
     
     func mockCards() -> [Card] {
         var id: UInt = 1
-        func answer(_ text: String) -> Card {
-            .init(cardType: .answer, id: id++, text: text)
+        func answer(_ text: String, isUsed: Bool = false) -> Card {
+            .init(text, type: .answer, isUsed: isUsed, id: id++)
         }
         
         return [
-            answer("Not believing in giraffes."),
+            answer("Saving up my boogers for ten years and then building the world's largest booger."),
+            answer("Republicans."),
+            answer("Not believing in giraffes.", isUsed: true),
             answer("Getting stuck in the toilet."),
             answer("Big Italian women making the spicy sauce."),
-            answer("Mormon feminists."),
-            answer("Replublicans."),
-            answer("Saving up my boogers for ten years and then building the world's largest booger.")
+            answer("Mormon feminists.")
         ]
     }
 }

@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct Player: Equatable, Identifiable {
+struct Player: Equatable, Decodable, Identifiable {
 
     let id: ID
     let isMe: Bool
