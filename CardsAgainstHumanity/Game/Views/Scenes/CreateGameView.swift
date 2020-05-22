@@ -38,6 +38,7 @@ extension CreateGameView {
                 }
             }
             .pickerStyle(SegmentedPickerStyle())
+            .aspectRatio(contentMode: .fit)
             
             VStack {
                 Text("Game id")
@@ -49,7 +50,7 @@ extension CreateGameView {
             }.enabled(self.canProceedToGame)
             
         }
-        .padding(250)
+        .padding(400)
         .onAppear { idStringProxy.wrappedValue = String.randomHex() }
     }
     

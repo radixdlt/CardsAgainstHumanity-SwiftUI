@@ -48,7 +48,7 @@ extension RootScreen: View {
             } else {
                 return Text("⚠️ Unhandled rootContent state").font(.headline).eraseToAny()
             }
-        }
+        }.font(.headline)
     }
 }
 

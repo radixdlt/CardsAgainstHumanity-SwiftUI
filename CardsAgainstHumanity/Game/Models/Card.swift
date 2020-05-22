@@ -10,6 +10,9 @@ import Foundation
 
 final class CardModel: ObservableObject, Identifiable {
     let card: Card
+    @Published var isSelected: Bool = false
+    
+    /// Only relevant for Card of type 'answer' and for non-Czar players to know that this answer card is used.
     @Published var isUsed: Bool = false
     
     init(card: Card) {

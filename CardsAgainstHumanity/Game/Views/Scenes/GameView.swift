@@ -24,6 +24,7 @@ extension GameView {
                 
                 VStack {
                     self.questionCardView
+                    Button(self.iAmCzar ? "Elect winner" : "Submit", action: self.viewModel.submitCardOrElectWinner)
                     self.answerCardsView
                 }
                 .frame(width: geometry.size.width * 0.8, height: geometry.size.height)
@@ -67,6 +68,10 @@ private extension GameView {
     var answerCardsView: some View {
         CardsView(cards: self.$viewModel.game.answerCards)
     }
+    
+    var iAmCzar: Bool {
+        viewModel.iAmCzar
+    }
 }
 
 
@@ -80,6 +85,33 @@ final class GameViewModel: ObservableObject {
 }
 
 extension GameViewModel {
+    
+    var iAmCzar: Bool {
+        game.me.isCzar
+    }
+    
+    func submitCardOrElectWinner() {
+        guard let selectedCardModel = game.answerCards.filter { $0.isSelected }.first else {
+            print("Cannot submit card or elect winner, no card selected")
+            return
+        }
+        let selectedCard = selectedCardModel.card
+        if iAmCzar {
+            print("Electing winner, card: \(selectedCard)")
+        } else {
+            print("Submitting card...: \(selectedCard)")
+        }
+        
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(1)) { [unowned self] in
+            self.game.answerCards.forEach({ $0.isSelected = false })
+            if self.iAmCzar {
+                print("Finished electing winner")
+            } else {
+                print("Finished Submitting card")
+                selectedCardModel.isUsed = true
+            }
+        }
+    }
     
     func fetchPlayers() {
         print("Fetching other players")

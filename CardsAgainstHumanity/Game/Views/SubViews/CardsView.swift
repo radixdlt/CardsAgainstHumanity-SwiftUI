@@ -18,15 +18,17 @@ extension CardsView {
     
     var body: some View {
         QGrid(self.cards.wrappedValue) {
-            self.markCardAsUsed($0)
+            self.selectCard($0)
         }
         
     }
 }
 
 private extension CardsView {
-    func markCardAsUsed(_ cardModel: CardModel) {
-        cardModel.isUsed = true
+
+    func selectCard(_ cardModel: CardModel) {
+        cards.wrappedValue.forEach { $0.isSelected = false }
+        cardModel.isSelected = true
     }
 }
 
