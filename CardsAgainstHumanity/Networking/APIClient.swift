@@ -9,16 +9,24 @@
 import Foundation
 import Combine
 
+func + (url: URL, path: String) -> String {
+    var url = url
+    url.appendPathComponent(path)
+    return url.absoluteString
+}
+
 final class APIClient {
     private let gameId: Game.ID
     private let playerId: Player.ID
-    
+    private let httpClient: HTTPClient
     init(
         gameId: Game.ID,
-        playerId: Player.ID
+        playerId: Player.ID,
+        httpClient: HTTPClient = DefaultHTTPClient.shared
     ) {
         self.gameId = gameId
         self.playerId = playerId
+        self.httpClient = httpClient
     }
     
     deinit {
@@ -26,37 +34,38 @@ final class APIClient {
     }
 }
 extension APIClient {
+    
+//    private func request(path: String) -> URLRequest {
+//        try! URLRequest.request(SecretServer.url + path)
+//    }
+    
+//    func createGame() -> AnyPublisher<Void, Never> {
+//        httpClient.data(
+//            request(path: "create/\(gameId)\(playerId)")
+//                .with(method: .POST)
+//        ).assertNoFailure()
+//        .eraseMapToVoid()
+//    }
+    
+    func createGame() -> AnyPublisher<Void, Never> {
+        httpClient.postFireForget(path: "create/\(gameId)/\(playerId)")
+    }
+    
     func fetchPlayers() -> AnyPublisher<[Player], Never> {
-        print("APIClient: fetching players")
-//        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(1)) { [unowned self] in
-//            print("Got players")
-//            self.game.otherPlayers = self.mockPlayers()
-//        }
-        
-        return Just(mockPlayers())
-            .delay(for: 1, scheduler: DispatchQueue.global(qos: .background))
-            .eraseToAnyPublisher()
+        httpClient.getDecode(path: "players/\(gameId)")
     }
     
     func startGame() -> AnyPublisher<Void, Never> {
-        Just(())
-            .delay(for: 1, scheduler: DispatchQueue.global(qos: .background))
-            .eraseToAnyPublisher()
+        httpClient.postFireForget(path: "start/\(gameId)/\(playerId)")
     }
     
     func fetchAnswerCards() -> AnyPublisher<[Card], Never> {
-        //        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(1)) { [unowned self] in
-        //            print("Got players")
-        //            self.game.otherPlayers = self.mockPlayers()
-        //        }
-        
-        Just(MockPlayerMemoizer.shared.mockedCardsAnswers())
-            .delay(for: 1, scheduler: DispatchQueue.global(qos: .background))
-            .eraseToAnyPublisher()
+         httpClient.getDecode(path: "cards/\(gameId)/\(playerId)")
     }
     
 }
 
+// MARK: MOCK
 private extension APIClient {
     func mockPlayers() -> [Player] {
         ["Alice123", "Bob1234", "Clara12"].compactMap { Player.ID(identifier: $0) }.map { Player(id: $0) }
