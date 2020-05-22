@@ -1,5 +1,5 @@
 //
-//  GameView.swift
+//  GameScreen.swift
 //  CardsAgainstHumanity
 //
 //  Created by Alexander Cyon on 2020-05-21.
@@ -7,15 +7,16 @@
 //
 
 import SwiftUI
+import Combine
 
 // MARK: View
-struct GameView: View {
+struct GameScreen: View {
     @EnvironmentObject private var appState: AppState
     
     @ObservedObject var viewModel: GameViewModel
 }
 
-extension GameView {
+extension GameScreen {
     var body: some View {
         GeometryReader { geometry in
             NavigationView {
@@ -37,7 +38,7 @@ extension GameView {
     }
 }
 
-private extension GameView {
+private extension GameScreen {
 
     var playersView: some View {
         VStack {
@@ -79,8 +80,12 @@ private extension GameView {
 final class GameViewModel: ObservableObject {
     @Published var game: Game
     
-    init(game: Game) {
+    private let apiClient: APIClient
+    private var cancellables = Set<AnyCancellable>()
+    
+    init(game: Game, apiClient: APIClient) {
         self.game = game
+        self.apiClient = apiClient
     }
 }
 
@@ -91,7 +96,7 @@ extension GameViewModel {
     }
     
     func submitCardOrElectWinner() {
-        guard let selectedCardModel = game.answerCards.filter { $0.isSelected }.first else {
+        guard let selectedCardModel = game.answerCards.filter({ $0.isSelected }).first else {
             print("Cannot submit card or elect winner, no card selected")
             return
         }
@@ -115,42 +120,27 @@ extension GameViewModel {
     
     func fetchPlayers() {
         print("Fetching other players")
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(1)) { [unowned self] in
-            print("Got players")
-            self.game.otherPlayers = self.mockPlayers()
-        }
+        
+        apiClient
+            .fetchPlayers()
+            .receive(on: RunLoop.main)
+            .sink(receiveValue: { [unowned self] players in
+                print("Got players")
+                self.game.otherPlayers = players
+            })
+            .store(in: &cancellables)
     }
     
     func fetchCards() {
         print("Fetching cards")
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
-            print("Got cards")
-            self.game.answerCards = self.mockCards().map(CardModel.init)
-        }
+        
+        apiClient
+            .fetchAnswerCards()
+            .receive(on: RunLoop.main)
+            .sink(receiveValue: { [unowned self] cards in
+                print("Got cards")
+                self.game.answerCards = cards.map(CardModel.init)
+            })
+            .store(in: &cancellables)
     }
-}
-
-private extension GameViewModel {
-    func mockPlayers() -> [Player] {
-        ["Alice123", "Bob1234", "Clara12"].compactMap { Player.ID(identifier: $0) }.map { Player(id: $0) }
-    }
-    
-    func mockCards() -> [Card] {
-        guard let path = Bundle.main.path(forResource: "cards", ofType: "json") else { fatalError("Failed to find cards.json file") }
-        do {
-            let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
-            let cards = try JSONDecoder().decode([Card].self, from: data)
-            self.game.questionCard = cards.filter({ !$0.isAnswer }).randomElement()
-            return .init(cards.filter({ $0.isAnswer }).prefix(15))
-        } catch {
-            fatalError("Failed to parse cards json, error: \(error)")
-        }
-    }
-}
-
-
-postfix func ++ <I>(int: inout I) -> I where I: FixedWidthInteger {
-    let beforeUpdate = int
-    int += 1
-    return beforeUpdate
 }

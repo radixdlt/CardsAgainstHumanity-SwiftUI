@@ -29,7 +29,6 @@ import Combine
 extension Preferences {
     
     var iAmCzar: Bool? {
-//        get { isTrue(.iAmCzar) }
         get { loadValue(forKey: .iAmCzar) }
         set { save(value: newValue ?? false, forKey: .iAmCzar) }
     }
@@ -49,34 +48,25 @@ extension Preferences {
         }
     }
     
-//    var playerId: Player.ID? {
-//        get {
-//            guard let idString: String = loadValue(forKey: .playerId) else {
-//                return nil
-//            }
-//            return Player.ID(identifier: idString)
-//        }
-//        set {
-//            guard let playerId = newValue else {
-//                fatalError("Really nil playerId?")
-//            }
-//            save(value: playerId.identifier, forKey: .playerId)
-//        }
-//    }
-    
-//    var hasAgreedToTermsOfUse: Bool {
-//        get { isTrue(.hasAgreedToTermsOfUse) }
-//        set { save(value: newValue, forKey: .hasAgreedToTermsOfUse) }
-//    }
-//
-//    var highestKnownHDAccountIndex: HDSubAccountAtIndex.Index {
-//        get {
-//            loadValue(forKey: .highestKnownHDAccountIndex) ?? 0
-//        }
-//        set {
-//            save(value: newValue, forKey: .highestKnownHDAccountIndex)
-//        }
-//    }
+    var playerId: Player.ID? {
+        get {
+            guard let idString: String = loadValue(forKey: .playerId) else {
+                return nil
+            }
+            return Player.ID(identifier: idString)
+        }
+        set {
+            guard let playerId = newValue else {
+                fatalError("Really nil playerId?")
+            }
+            save(value: playerId.identifier, forKey: .playerId)
+        }
+    }
+ 
+    var hasGameStarted: Bool {
+        get { isTrue(.hasGameStarted) }
+        set { save(value: newValue, forKey: .hasGameStarted) }
+    }
 
 }
 

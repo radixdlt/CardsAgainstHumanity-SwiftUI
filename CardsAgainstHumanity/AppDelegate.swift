@@ -23,7 +23,7 @@ public extension Identifiable where Self: RawRepresentable, ID == RawValue {
 // MARK: - RootContent
 enum RootContent: Int, Equatable, Identifiable {
     
-    case joinOrCreateGame, playGame
+    case joinOrCreateGame, waitingForGameToStart, playGame
 }
 
 
@@ -31,6 +31,7 @@ enum RootContent: Int, Equatable, Identifiable {
 // MARK: - ROOT SCREEN
 struct RootScreen {
     @EnvironmentObject private var appState: AppState
+    @EnvironmentObject private var preferences: Preferences
 }
 
 // MARK: View
@@ -39,12 +40,25 @@ extension RootScreen: View {
     var body: some View {
         Group<AnyView> {
             if appState.rootContent == .joinOrCreateGame {
-                return CreateGameView().eraseToAny()
-            } else if appState.rootContent == .playGame {
-                return GameView(
-                    viewModel: GameViewModel(game: appState.update().appShould.createGame())
+                return CreateGameScreen()
+                    .eraseToAny()
+            } else if appState.rootContent == .waitingForGameToStart {
+                return WaitingForGameToStartScreen(
+                    viewModel: WaitingForGameToStartViewModel(
+                        iAmCzar: preferences.iAmCzar!,
+                        apiClient: appState.update().appShould.provideAPIClient(),
+                        appState: appState
+                    )
                 )
                     .eraseToAny()
+            } else if appState.rootContent == .playGame {
+                return GameScreen(
+                    viewModel: GameViewModel(
+                        game: appState.update().appShould.createGame(),
+                        apiClient: appState.update().appShould.provideAPIClient()
+                    )
+                )
+                .eraseToAny()
             } else {
                 return Text("⚠️ Unhandled rootContent state").font(.headline).eraseToAny()
             }
@@ -63,6 +77,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         
         let preferences = Preferences.default
         preferences.deleteAll()
+        preferences.playerId = Player.ID.random()
         let appState = AppState(preferences: preferences)
         
          let rootScreen =  RootScreen()

@@ -11,7 +11,7 @@ import SwiftUI
 // Ugly hack
 private var gameIdString = ""
 
-struct CreateGameView: View {
+struct CreateGameScreen: View {
 
     @EnvironmentObject private var appState: AppState
     @State private var gameId: Game.ID?
@@ -19,7 +19,7 @@ struct CreateGameView: View {
     
 }
 
-extension CreateGameView {
+extension CreateGameScreen {
     var body: some View {
         
         let idStringProxy = Binding<String>(

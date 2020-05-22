@@ -25,7 +25,7 @@ extension Player {
     
     typealias ID = Identifier<Self>
     
-    static func me(isCzar: Bool) -> Self {
-        .init(id: .random(), isMe: true, isCzar: isCzar)
+    static func me(isCzar: Bool, id: Player.ID) -> Self {
+        .init(id: id, isMe: true, isCzar: isCzar)
     }
 }

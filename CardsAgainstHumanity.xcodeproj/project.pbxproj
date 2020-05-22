@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		E6117E4E2477349900A4D35B /* cards.json in Resources */ = {isa = PBXBuildFile; fileRef = E6117E4D2477349900A4D35B /* cards.json */; };
+		E6117E502477A5A200A4D35B /* WaitingForGameToStartScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6117E4F2477A5A200A4D35B /* WaitingForGameToStartScreen.swift */; };
+		E6117E532477A6E100A4D35B /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6117E522477A6E100A4D35B /* HTTPClient.swift */; };
+		E6117E552477A77600A4D35B /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6117E542477A77600A4D35B /* APIClient.swift */; };
 		E69410A22476D14B009F3665 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69410A12476D14B009F3665 /* AppState.swift */; };
 		E6C99F602476EAFE008EA101 /* Optional_Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F5F2476EAFE008EA101 /* Optional_Extensions.swift */; };
 		E6C99F782476F5EB008EA101 /* PreferencesKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C99F632476F5EB008EA101 /* PreferencesKey.swift */; };
@@ -37,12 +40,15 @@
 		E6CC8AF724768E2800D21278 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6CC8AF524768E2800D21278 /* Main.storyboard */; };
 		E6FEB67A2476BCDB00D3F17D /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FEB6792476BCDB00D3F17D /* Player.swift */; };
 		E6FEB67C2476BCF700D3F17D /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FEB67B2476BCF700D3F17D /* Game.swift */; };
-		E6FEB67E2476BD0C00D3F17D /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FEB67D2476BD0C00D3F17D /* GameView.swift */; };
+		E6FEB67E2476BD0C00D3F17D /* GameScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FEB67D2476BD0C00D3F17D /* GameScreen.swift */; };
 		E6FEB6802476BD2000D3F17D /* Identifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FEB67F2476BD2000D3F17D /* Identifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E6117E4D2477349900A4D35B /* cards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cards.json; sourceTree = "<group>"; };
+		E6117E4F2477A5A200A4D35B /* WaitingForGameToStartScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaitingForGameToStartScreen.swift; sourceTree = "<group>"; };
+		E6117E522477A6E100A4D35B /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
+		E6117E542477A77600A4D35B /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClient.swift; sourceTree = "<group>"; };
 		E69410A12476D14B009F3665 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
 		E6C99F5F2476EAFE008EA101 /* Optional_Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Optional_Extensions.swift; sourceTree = "<group>"; };
 		E6C99F632476F5EB008EA101 /* PreferencesKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferencesKey.swift; sourceTree = "<group>"; };
@@ -74,7 +80,7 @@
 		E6CC8AF924768E2800D21278 /* CardsAgainstHumanity.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CardsAgainstHumanity.entitlements; sourceTree = "<group>"; };
 		E6FEB6792476BCDB00D3F17D /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		E6FEB67B2476BCF700D3F17D /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
-		E6FEB67D2476BD0C00D3F17D /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		E6FEB67D2476BD0C00D3F17D /* GameScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScreen.swift; sourceTree = "<group>"; };
 		E6FEB67F2476BD2000D3F17D /* Identifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Identifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -96,6 +102,15 @@
 				E6117E4D2477349900A4D35B /* cards.json */,
 			);
 			path = Assets;
+			sourceTree = "<group>";
+		};
+		E6117E512477A6D700A4D35B /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				E6117E522477A6E100A4D35B /* HTTPClient.swift */,
+				E6117E542477A77600A4D35B /* APIClient.swift */,
+			);
+			path = Networking;
 			sourceTree = "<group>";
 		};
 		E6C99F5E2476EAEA008EA101 /* Extensions */ = {
@@ -155,7 +170,8 @@
 			isa = PBXGroup;
 			children = (
 				E6CC8AEE24768E2700D21278 /* CreateGameView.swift */,
-				E6FEB67D2476BD0C00D3F17D /* GameView.swift */,
+				E6FEB67D2476BD0C00D3F17D /* GameScreen.swift */,
+				E6117E4F2477A5A200A4D35B /* WaitingForGameToStartScreen.swift */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
@@ -196,6 +212,7 @@
 		E6CC8AEB24768E2600D21278 /* CardsAgainstHumanity */ = {
 			isa = PBXGroup;
 			children = (
+				E6117E512477A6D700A4D35B /* Networking */,
 				E6117E4C2477349900A4D35B /* Assets */,
 				E6C99F8B2476F8C0008EA101 /* ViewModifiers */,
 				E6C99F612476F5EB008EA101 /* DataStore */,
@@ -339,6 +356,7 @@
 				E6C99F8F247710C0008EA101 /* Card.swift in Sources */,
 				E6C99F93247710FD008EA101 /* PlayerView.swift in Sources */,
 				E6C99F8A2476F5EB008EA101 /* KeyValueStore.swift in Sources */,
+				E6117E502477A5A200A4D35B /* WaitingForGameToStartScreen.swift in Sources */,
 				E6C99F792476F5EB008EA101 /* Preferences.swift in Sources */,
 				E6C99F842476F5EB008EA101 /* KeyValueStoring+DeleteAll.swift in Sources */,
 				E6C99F7C2476F5EB008EA101 /* Preferences+ValueRetrieval.swift in Sources */,
@@ -349,12 +367,14 @@
 				E6C99F852476F5EB008EA101 /* AnyKeyValueStoring.swift in Sources */,
 				E6C99F782476F5EB008EA101 /* PreferencesKey.swift in Sources */,
 				E6CC8AED24768E2700D21278 /* AppDelegate.swift in Sources */,
+				E6117E532477A6E100A4D35B /* HTTPClient.swift in Sources */,
+				E6117E552477A77600A4D35B /* APIClient.swift in Sources */,
 				E6C99F95247712E5008EA101 /* CardView.swift in Sources */,
 				E6C99F882476F5EB008EA101 /* KeyValueStoring+Codable.swift in Sources */,
 				E6FEB67C2476BCF700D3F17D /* Game.swift in Sources */,
 				E6FEB6802476BD2000D3F17D /* Identifier.swift in Sources */,
 				E6C99F7B2476F5EB008EA101 /* NoSaveOptions.swift in Sources */,
-				E6FEB67E2476BD0C00D3F17D /* GameView.swift in Sources */,
+				E6FEB67E2476BD0C00D3F17D /* GameScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
